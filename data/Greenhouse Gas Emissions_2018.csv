@@ -1,0 +1,717 @@
+﻿Year,PDGES ID,NPRI,Company name and facility,NAICS,Town,Province,CO2,CH4,N20,HFC,PFC,SF6,Total
+2018,G10098,3903,Suncor Energy Products Partnership - Edmonton Refinery,324110,Sherwood Park,Alberta,1126632.77,1229.25,1979.1372,0,0,0,1129841.157
+2018,G11233,5308,City of Calgary - Bonnybrook Wastewater Treatment Plant,221320,Calgary,Alberta,16116,6905.25,9536,0,0,0,32557.25
+2018,G11235,2760,Weyerhaeuser Company Limited - Drayton Valley Sawmill,321111,Drayton Valley,Alberta,18920.04,8,12.218,0,0,0,18940.258
+2018,G11527,,Flagstaff Regional Solid Waste Management - Flagstaff Waste Regional Landfill,562210,Sedgewick,Alberta,1632,14870,0,0,0,0,16502
+2018,G11169,6828,K+S Windsor Salt Ltd. - Lindbergh Facility,325189,Lindbergh,Alberta,28249,2.45,12.70672,0,0,0,28264.15672
+2018,G11056,2630,Johns Manville Canada Inc. - Innisfail Plant,327214,Innisfail,Alberta,23652.10171,12.86145,111.743742,0,0,0,23776.7069
+2018,G10152,6556,INEOS Canada Partnership - Joffre LAO Plant,325110,Joffre,Alberta,167876.6673,115.038075,766.366302,0,0,0,168758.0716
+2018,G10261,6219,Air Liquide Canada Inc. - Scotford Complex,221112,Fort Saskatchewan,Alberta,435891,201.85,2146.494,0,0,0,438239.344
+2018,G10828,1028,Alberta Newsprint Co. - ALBERTA NEWSPRINT,322122,Whitecourt,Alberta,164379.2821,1113.33,1414.4272,0,0,0,166907.0393
+2018,G10045,5357,Cancarb Ltd. - Cancarb Ltd.,325189,Medicine Hat,Alberta,153858.5886,325.7225,383.9432,0,0,3.4656,154571.7199
+2018,G10789,27964,Pembina Pipeline Corporation - Saturn Deepcut Gas Plant 12-36,211110,Greenview No. 16,Alberta,120688.1075,2916.52,904.8472,0,0,0,124509.4747
+2018,G11079,5235,Cargill Foods - Cargill High River Plant,311611,High River,Alberta,34554.225,11346.4475,233.03004,6.2625,0,0,46139.96504
+2018,G11888,29203,Cargill Limited - Cargill Limited - Oilseed Processing,311224,Camrose,Alberta,65303.6739,95.41,504.1564,0,0,0,65903.2403
+2018,G11091,16633,Whitecap Resources Inc. - Whitecap Valhalla North 03-27-075-09W6,211110,Valhalla,Alberta,10305.7598,3715.835,303.4236,0,0,0,14325.0184
+2018,G11226,17116,Whitecap Resources Inc. - Everdell Gas Plant 14-20-038-07 W5M,211110,NA,Alberta,16488.6603,2696.3,1009.5942,0,0,0,20194.5545
+2018,G11893,,Whitecap Resources Inc. - WAPATI 13-5-67-8W6,211110,Greenview,Alberta,37894.9253,3149.6075,371.4272,0,0,0,41415.96
+2018,G10107,1091,Plains Midstream Canada ULC - Empress Gas Plant,211110,Medicine Hat,Alberta,53863.729,1176.2,266.71,0,0,0,55306.639
+2018,G11174,4468,Bunge Canada  - BUNGE CANADA - FORT SASKATCHEWAN PLANT,311224,Sturgeon County,Alberta,13747.4,6.5,68.54,0,0,0,13822.44
+2018,G10327,19289,Rio Tinto Alcan Inc - Strathcona Works,324190,Sherwood Park,Alberta,106476.022,0.69,3.0992,23.7975,0,0,106503.6087
+2018,G10985,250,Evonik Canada Inc. - Gibbons Site,325189,Gibbons,Alberta,19408.7,10.05,92.38,0,0,0,19511.13
+2018,G10566,6678,University of Alberta Heating Plant - Heating Plant,611310,Edmonton,Alberta,177043.7281,1136.5075,1355.602,0,0,0,179535.8376
+2018,G10125,18996,MEGlobal Canada ULC - Fort Saskatchewan EOEG,325190,Fort Saskatchewan,Alberta,91929.0728,593.2375,0,0,0,0,92522.3103
+2018,G10232,18997,MEGlobal Canada ULC - Prentiss Chemical Manufacturing Facility,325190,Lacombe County,Alberta,315998.9989,1195.6875,247.787,0,0,0,317442.4734
+2018,G10870,28182,Encana Corporation - Kaybob Gas Plant 15-31,211110,Grande Prairie,Alberta,40774.72,7940.5,730.1,0,0,0,49445.32
+2018,G11896,29349,Inter Pipeline Offgas Ltd - Pioneer 2 Liquids Extraction Plant,211141,Fort McMurray,Alberta,10728.6931,860.5425,10.728,0,0,0,11599.9636
+2018,G10132,1039,Milner Power Limited Partnership by its GP Milner Power Inc. - H.R.Milner Generating Station,221112,Grande Cache,Alberta,276237.252,921.745,1586.9692,0,0,0,278745.9662
+2018,G11676,32465,Ridgeback Resources Inc. - BRAZEAU 14-30-45-11W5 MWOB,211110,Brazeau,Alberta,13076.8706,2964.8525,772.4458,0,0,0,16814.1689
+2018,G10137,3941,AltaGas Ltd. - Harmattan Gas Processing Plant,211110,Didsbury,Alberta,351909.408,17130.95,6542.292,0,0,0,375582.65
+2018,G10071,5248,Inter Pipeline Ltd. - Cochrane Extraction Plant,211110,Cochrane,Alberta,499908.7569,3763.4275,3459.482,6326.586,0,0,513458.2524
+2018,G10915,21775,Prairie Mines & Royalty ULC - Paintearth Mine,212115,Forestburg,Alberta,5658.6377,5631.675,16.6284,0,0,0,11306.9411
+2018,G11473,16878,Encana Corporation - Gleichen Comp Stn 13-26,211110,Calgary,Alberta,5930.38,6408.5,199.66,0,0,0,12538.54
+2018,G11282,16743,Encana Corporation - Hythe Comp Stn 07-34,211110,Grande Prairie,Alberta,9955.97,1671.5,318.86,0,0,0,11946.33
+2018,G11283,19562,Encana Corporation - Hythe Gas Battery 15-31,211110,Grande Prairie,Alberta,11206.44,3340.75,336.74,0,0,0,14883.93
+2018,G11393,26501,Encana Corporation - Kaybob Gas Plant 05-31,211110,Grande Prairie,Alberta,24836.02,5269.75,682.42,0,0,0,30788.19
+2018,G11462,28184,Encana Corporation - Pipestone Comp Stn 16-34,211110,Grande Prairie,Alberta,36558.96,9456.75,1102.6,0,0,0,47118.31
+2018,G11074,11,Hexion Canada Inc. - Hexion Canada Inc.- Edmonton Facility,325210,Edmonton,Alberta,12831.7875,2.0775,21.9328,77.792,0,0,12933.5898
+2018,G10456,4823,Encana Corporation - Sexsmith Sour Gas Plant,211110,Sexsmith,Alberta,61470.98,3994,247.34,0,0,0,65712.32
+2018,G10869,29453,Encana Corporation - Kaybob Gas Plant 10-29-063 ,211110,Grande Prairie,Alberta,45202.8,9934.25,965.52,0,0,0,56102.57
+2018,G11766,30003,543077 Alberta Ltd. - Sil Industrial Minerals Lamont Plant,212398,Bruderheim,Alberta,24079.7888,15.3675,609.7378,0,0,0,24704.8941
+2018,G10260,2963,Shell Chemicals Canada - Scotford Chemical Plant,325110,"Fort Saskatchewan,Strathcona County",Alberta,330893.1691,557.4525,1889.2902,3268.497,0,0,336608.4088
+2018,G10914,21777,Prairie Mines & Royalty ULC - Sheerness Mine,212115,Hanna,Alberta,15706.9209,14651.2375,43.8656,0,0,0,30402.024
+2018,G11695,,Bonavista Energy Corporation - ANSELL GGS 12-31,211110,Ansell,Alberta,39569.45,12501.84,1156.985,0,0,0,53228.275
+2018,G11342,,Bonavista Energy Corporation - Bonavista Pine Creek 12-19-57-18,211110,na,Alberta,6260.1506,5727.5925,138.3912,0,0,0,12126.1343
+2018,G11897,,Bonavista Energy Corporation - BONAVISTA STRACHAN 05-34-037-08W5,211110,N/A,Alberta,12704.6923,3275.685,398.8432,0,0,0,16379.2205
+2018,G11691,,Bonavista Energy Corporation - Fairborne Marlboro 05-29 Sweet Gp,211110,N/A,Alberta,16965.9761,3756.9125,450.8144,0,0,0,21173.703
+2018,G11696,,Bonavista Energy Corporation - Gilby 03-28-41-4 Ggs,211110,Gilby,Alberta,28236.9202,6689.915,809.4276,0,0,0,35736.2628
+2018,G11689,,Bonavista Energy Corporation - MORNINGSIDE 11-35 COMP,211110,N/A,Alberta,12026.9266,2563.8825,685.4894,0,0,0,15276.2985
+2018,G11344,16720,Bonavista Energy Corporation - Pancdn Wilson Creek #2,211110,na,Alberta,17751.2458,4744.17,555.7998,0,0,0,23051.2156
+2018,G11343,16727,Bonavista Energy Corporation - Pcp Westerose 14-27,211110,na,Alberta,6984.8486,8731.98,310.963,0,0,0,16027.7916
+2018,G11694,,Bonavista Energy Corporation - Pine Creek 12-2-56-19 Multiwell Gas,211110,n/a,Alberta,18835.4573,8188.85,1123.9368,0,0,0,28148.2441
+2018,G11692,,Bonavista Energy Corporation - SOUTH ROSEVEAR 11-36-53-15,211110,N/A,Alberta,13250.0587,6933.2575,243.3468,0,0,0,20426.663
+2018,G11163,2223,Bonavista Energy Corporation - South Rosevear Gas Plant,211110,Edson,Alberta,8126.9694,1870.3625,277.289,0,0,0,10274.6209
+2018,G11180,,Bonavista Energy Corporation - Westerose Comp Stn 11-09,211110,na,Alberta,23427.0427,5600.6225,741.1558,0,0,0,29768.821
+2018,G11693,,Bonavista Energy Corporation - Willesden Green 10-34-40-06w5 Ggs,211110,N/A,Alberta,14944.1264,4791.98,678.546,0,0,0,20414.6524
+2018,G11690,,Bonavista Energy Corporation - WILSON CREEK 15-03-043-04W5 GGS,211110,N/A,Alberta,9387.3944,3308.2725,293.2618,0,0,0,12988.9287
+2018,G10813,6647,Canadian Natural Upgrading Ltd - Canadian Natural Upgrading Limited Muskeg River Mine and Jackpine Mine,211142,Fort McMurray,Alberta,1475879.769,31835.02,9134.2066,1945.944,0,216.6,1519011.54
+2018,G10409,22267,Devon Canada Corporation - Jackfish 1 SAGD Plant,211141,Conklin,Alberta,726959.7816,9094.2025,1124.2944,0,0,0,737178.2785
+2018,G11898,1864,"Constellation Brands Schenley, ULC - The Black Velvet Distilling Company",312140,Lethbridge,Alberta,20183.63,10.25,241.38,0,0,0,20435.26
+2018,G10265,1036,ATCO Power - Sheerness Generating Station,221112,Hanna,Alberta,4953345.948,1586.4175,21071.2224,0,0,0,4976003.588
+2018,G10018,1033,ATCO Power - Battle River Generating Station,221112,Forestburg,Alberta,2179125.849,607.895,9306.54,0,0,0,2189040.284
+2018,G11899,21061,Birchcliff Energy Ltd. - 07-25-77-12-W6M,211110,Pouce Coupe,Alberta,8912.5734,2849.4775,281.93929,0,0,0,12043.99019
+2018,G11901,26268,Aspenleaf Energy Ltd. - Ethel Connector 04-26,211110,N/A,Alberta,10562.5783,2282.635,118.7232,0,0,0,12963.9365
+2018,G10671,24465,Devon Canada Corporation - Jackfish 2 SAGD Plant,211141,Conklin,Alberta,807736.8892,2318.9475,1222.0086,0,0,0,811277.8453
+2018,G10778,28033,Devon Canada Corporation - Jackfish 3 SAGD Plant,211141,Conklin,Alberta,813092.2667,1269.9675,1251.6596,0,0,0,815613.8938
+2018,G10774,24125,Birchcliff Energy Ltd. - 03-22-78-12-W6M,211110,Bonanza,Alberta,140149.1875,32174.45228,3568.3414,0,0,0,175891.9811
+2018,G11251,7787,West Fraser Mills Ltd. - ALBERTA PLYWOOD EDMONTON - A Division of West Fraser Mills L,321212,Edmonton,Alberta,21448.69,14.581,116.19616,0,0,0,21579.46716
+2018,G11407,25220,XTO Energy Canada ULC - Resthaven 02-10,211110,Calgary,Alberta,24073.5152,4285.225,1644.3342,0,0,0,30003.0744
+2018,G10196,,ATCO Power Canada Ltd. - Muskeg River Cogeneration Plant,221112,Fort McMurray,Alberta,1389870.658,1845.7685,7485.26532,0,0,0,1399201.692
+2018,G11047,6648,Alberta Capital Region Wastewater Commision - Alberta Capital Region Wastewater Commission Treatment Plant,221320,Fort Saskatchewan,Alberta,7052.208,16751.7325,343.981996,0,0,0,24147.9225
+2018,G10122,4142,Plains Midstream Canada ULC - Fort Saskatchewan Storage and Fractionation,211110,Fort Saskatchewan,Alberta,98800.7908,59.395,537.9496,0,0,0,99398.1354
+2018,G10108,3752,Plains Midstream Canada ULC - Empress Straddle Gas Plant,211110,Medicine Hat,Alberta,256074.1922,5072.125,1170.3652,0,0,0,262316.6824
+2018,G10015,,ATCO Gas and Pipelines Ltd. - ATCO Pipelines - Transmission System,486210,Edmonton,Alberta,78868.5814,85672.44,1982.0874,0,0,0,166523.1088
+2018,G10809,5232,ALIMENT JBS CANADA ULC/ JBS FOOD CANADA ULC - JBS Foods Canada Inc.,311611,Brooks,Alberta,61436.4615,213620.6575,12015.1514,0,0,0,287072.2704
+2018,G11232,17872,SHELL CANADA LIMITED - Moose Mountain Compressor Station,211110,Calgary,Alberta,20273.7,6065.1875,659.1462,0,0,0,26998.0337
+2018,G11164,17876,SHELL CANADA LIMITED - Waterton Complex - Compressor Station W,211110,Pincher Creek,Alberta,7612.87044,3039.1225,555.621,0,0,0,11207.61394
+2018,G10267,2120,Shell Canada Limited-1 - Caroline Complex,211110,Caroline,Alberta,337891.6639,1445.19,2341.2668,0,0,0,341678.1207
+2018,G10268,2119,Shell Canada Limited-1 - Jumping Pound Complex,211110,Calgary,Alberta,222726.7929,3710.315,1757.6636,0,0,0,228194.7715
+2018,G10313,2108,Shell Canada Limited-1 - Waterton Complex,211110,Pincher Creek,Alberta,271673.831,4893.4025,3025.7132,0,0,0,279592.9467
+2018,G11651,,City of Medicine Hat - City of Medicine Hat Landfill,562210,Cypress County,Alberta,5448.71,38938.75,2.98,0,0,0,44390.44
+2018,G10557,19181,Suncor Energy Oil Sands Limited Partnership  - Firebag,211141,Ft. McMurray,Alberta,5288856.524,7948.0937,32183.39387,0,0,597.5196,5329585.531
+2018,G10180,17630,"Suncor Energy Oil Sands Limited Partnership  - MacKay River, In-Situ Oil Sands Plant",211141,Fort McMurray,Alberta,393003.7461,2035.96335,3633.44844,0,0,0,398673.1578
+2018,G10558,2230,Suncor Energy Oil Sands Limited Partnership  - Suncor Energy Inc. Oil Sands,211142,Fort McMurray,Alberta,7528063.587,302688.4996,36241.90474,336.68778,88.28094,767.904,7868186.864
+2018,G10159,4150,SemCams Midstream ULC - Kaybob Amalgamated Sour Gas Plant,211110,Fox Creek,Alberta,215456.9557,11620.5825,3756.96348,0,0,0,230834.5017
+2018,G10120,5352,TransAlta Generation Partnership - Fort Saskatchewan Thermal Electric(Cogeneration) Power Plant,221112,Fort Saskatchewan,Alberta,384736.2496,682.29855,2907.869398,0,0,0,388326.4176
+2018,G11397,26403,Fort Hills Energy L.P. - Fort Hills Oil Sands,211142,Fort McMurray,Alberta,2128690.66,6281.125,11933.19544,66.67633,0,0,2146971.657
+2018,G10008,,Alliance Pipeline Ltd. - Alliance Pipeline Ltd. - AB Pipeline System,486210,Calgary,Alberta,548956.0629,20080.675,4917.0298,0,0,0,573953.7677
+2018,G10187,,Syncrude Canada Ltd. - Mildred Lake and Aurora Plant Sites,211142,Fort McMurray,Alberta,11269551.32,363261.3235,149048.5969,651.794,4.8774,42.408,11782560.32
+2018,G11484,25221,Kanata Energy Group Ltd. - 13-11-062-27 W5M Simonette,211110,Grande Prairie,Alberta,20957.2552,116.8225,98.2208,0,0,0,21172.2985
+2018,G11904,27902,XTO Energy Canada ULC - Fir 01-32,211110,Calgary,Alberta,10914.6931,1381.4475,523.7052,0,0,0,12819.8458
+2018,G11440,22105,XTO Energy Canada ULC - KAYBOB SOUR GAS PROCESSING PLANT 15-07-060-18 W5M,211110,Calgary,Alberta,25582.4499,388.1775,45.5642,0,0,0,26016.1916
+2018,G11406,27901,XTO Energy Canada ULC - South Kaybob 02-20,211110,Calgary,Alberta,24049.0405,1704.3,1430.8172,0,0,0,27184.1577
+2018,G10127,267,Capital Power Generation Services Inc. - Genesee Thermal Generating Station,221112,Warburg,Alberta,8787070.97,2544.5,54846.9,0,0,0,8844462.37
+2018,G10868,21232,Edmonton Regional Airport Authority - Edmonton International Airport,488190,Edmonton International Airport,Alberta,48984,8.5125,43.3888,0,0,0,49035.9013
+2018,G11017,23004,Aspenleaf Energy Ltd. - Leduc 02/10-22,211110,Leduc,Alberta,13284.8384,4239.2075,50.8984,0,0,0,17574.9443
+2018,G11913,169,Bunge Canada  - BUNGE CANADA - WAINWRIGHT PLANT,311990,Wainwright,Alberta,7739.9,3.75,39.932,0,0,0,7783.582
+2018,G10009,1,Alberta-Pacific Forest Industries Inc. - Alberta-Pacific Forest Industries Inc.,322112,County of Athabasca,Alberta,89737.9792,2877.76,19339.4848,385.3005,0,0,112340.5245
+2018,G10316,280,Dow Chemical Canada ULC - Western Canada Operations,325110,Fort Saskatchewan,Alberta,1162292.27,2414.6225,5086.4428,1947.66,0,0,1171740.995
+2018,G10375,2316,Dow Chemical Canada ULC - Prentiss Manufacturing Facility,325210,Lacombe County,Alberta,36990.6321,585.9275,163.155,0,0,0,37739.7146
+2018,G11409,27866,Japan Canada Oil Sands Limited - Hangingstone Expansion Project,211141,RM of Wood Buffalo,Alberta,445115.2932,301.21525,629.97498,0,0,0,446046.4834
+2018,G11850,,Petrus Resources Ltd. - Arriva 02-25 Gas Plant,211110,Rocky Mountain House,Alberta,24578.8897,2824.9875,1518.906,0,0,0,28922.7832
+2018,G11914,29794,Shell Canada Limited-1 - Kaybob 05-33 Gas Battery,211110,Fox Creek,Alberta,23848.8878,7766.8225,731.7688,0,0,0,32347.4791
+2018,G11915,,Petrus Resources Ltd. - 07-14-049-01W5 Gas Plant,211110,Thorsby,Alberta,8374.6632,1487.5825,509.282,0,0,0,10371.5277
+2018,G10787,26618,Pembina Pipeline Corporation - Kakwa River Gas Plant 08-13-063-05W6,211110,n/a,Alberta,233794.3023,22751.325,4052.1444,0,0,0,260597.7717
+2018,G10356,6560,CNOOC Petroleum North America ULC - Balzac Power Station,221112,Balzac,Alberta,212784.6409,571.293525,1618.805434,0,0,0,214974.7399
+2018,G10390,22378,CNOOC Petroleum North America ULC - Long Lake Project,211141,Fort McMurray,Alberta,1850384.546,7007.0075,11562.251,0,0,0,1868953.804
+2018,G10455,27963,Pembina Pipeline Corporation - Resthaven Sweet Gas Plant 08-11,211110,n/a,Alberta,173539.2693,50583.545,21572.1306,0,0,0,245694.9449
+2018,G10352,6869,Waste Management of Canada Corporation - West Edmonton Landfill,562210,Edmonton,Alberta,703.7046,11203.07,14.0358,0,0,0,11920.8104
+2018,G11916,29499,Waste Management of Canada Corporation - Thorhild,562210,Newbrook,Alberta,0,14960.175,0,0,0,0,14960.175
+2018,G11917,6617,West Fraser Mills Ltd. - Hinton Wood Products - A Division of West Fraser Mills Ltd.,321111,Hinton,Alberta,9486,126.015,835.4132,0,0,0,10447.4282
+2018,G10241,6609,ATCO Power Canada Ltd. - Rainbow Lake Cogeneration Power Plant (Units 4-5),221112,Rainbow Lake,Alberta,296885.2014,441.2575,1835.0244,0,0,0,299161.4833
+2018,G10879,6850,Border Paving Ltd. - Camrose Batch Plant,237310,Camrose,Alberta,3144.464494,3.1522,84.109308,0,0,0,3231.726002
+2018,G10421,6972,Baymag Inc. - Baymag Exshaw Operations,327990,Exshaw,Alberta,153919.1767,18.91,196.7396,0,0,0,154134.8263
+2018,G10886,21075,Border Paving Ltd. - Portable Plant 020002,237310,Red Deer,Alberta,490.128193,0.1897,3.80546,0,0,0,494.123353
+2018,G10882,6849,Border Paving Ltd. - Hinton Batch Plant,237310,Hinton,Alberta,547.072193,0.287775,7.710154,0,0,0,555.070122
+2018,G11918,,Alberta  Health Services - Alberta Children's Hospital,622112,Calgary,Alberta,10378.03,5,1756.71,0,0,0,12139.74
+2018,G11236,1175,Agrium Inc. - Joffre Nitrogen Operations,325313,Joffre,Alberta,23280.72,11.95825,120.80324,0,0,0,23413.48149
+2018,G11537,,Alberta  Health Services - Rockyview General Hospital,622111,Calgary,Alberta,10960.19,5.5,726.673,0,0,0,11692.363
+2018,G10341,6611,ATCO Power Canada Ltd. - Poplar Hill Generating Station,221112,Grande Prairie,Alberta,118858.0351,410.3075,915.0388,0,0,0,120183.3814
+2018,G10349,6615,ATCO Power Canada Ltd. - Valleyview Generating Station,221112,Valleyview,Alberta,120020.6741,1832.385,897.3972,0,0,0,122750.4563
+2018,G11920,,ATCO Power Canada Ltd. - Oldman River Hydroelectric Power Plant,221111,Pincher Creek,Alberta,0.5014,8.885,1114.6988,0,0,0,1124.0852
+2018,G11922,,TransAlta Corporation - Bighorn Hydro Plant,221111,Clearwater,Alberta,16.7989,0.0075,0.3576,0,0,0,17.164
+2018,G11924,,TransAlta Corporation - Brazeau Hydro Plant,221111,Drayton Valley,Alberta,99.5688,0.1485,0.3278,0,0,0,100.0451
+2018,G11926,,TransAlta Corporation - Ghost Hydro Plant,221111,Cochrane,Alberta,54.6175,0.07,0.1788,0,0,0,54.8663
+2018,G11929,,TransAlta Corporation - Kananaskis Hydro Plant,221111,Seebe,Alberta,119.1008,0.14,0.6258,0,0,0,119.8666
+2018,G11930,,TransAlta Corporation - Pocaterra Hydro Plant,221111,Kananaskis,Alberta,11.8356,0.005,0.2384,0,0,0,12.079
+2018,G11932,,TransAlta Corporation - Spray Hydro Plant,221111,Canmore,Alberta,99.5656,0.105,1.043,0,0,0,100.7136
+2018,G11412,27700,Granite Oil Corporation - Ferguson Oil Bty 1-21-3-17W4,211110,Milk River,Alberta,8783.631,1333.14,10.2512,0,0,0,10127.0222
+2018,G11933,,TransAlta Renewables Inc. - Castle Wind Farm,221119,Pincher Creek,Alberta,21.5365,0.0225,0.3278,0,0,0,21.8868
+2018,G11934,,TransAlta Renewables Inc. - Cowley Wind Farm,221119,Pincher Creek,Alberta,10.6319,0.01,0.1788,0,0,0,10.8207
+2018,G12116,,TransAlta Renewables Inc. - McBride Lake Wind Farm,221119,Fort Macleod,Alberta,41.0012,0.04,0.6258,0,0,0,41.667
+2018,G11936,,TransAlta Renewables Inc. - Sinnott Wind Farm,221119,Pincher Creek,Alberta,3.544,0.0025,0.0596,0,0,0,3.6061
+2018,G11937,,TransAlta Renewables Inc. - Summerview 1 Wind Farm,221119,Pincher Creek,Alberta,38.275,0.0375,0.596,0,0,0,38.9085
+2018,G11740,16487,NorthRiver Midstream Inc. - 11-19 Compressor Station,486210,Spirit River,Alberta,10953.7982,3317.4525,363.1726,0,0,0,14634.4233
+2018,G10550,5247,NorthRiver Midstream Inc. - Gordondale East Gas Plant,211110,Spirit River,Alberta,44080.9787,6230.615,845.873,0,0,0,51157.4667
+2018,G10885,6852,Border Paving Ltd. - Stony Plain Batch Plant,237310,Stony Plain,Alberta,3314.012328,3.5085,98.588532,0,0,0,3416.10936
+2018,G10887,,Border Paving Ltd. - Red Deer Main Office,551114,Red Deer,Alberta,1904.421924,4.5591,75.630314,0,0,0,1984.611338
+2018,G10889,,Border Paving Ltd. - Red Deer Truck Shop,484110,Red Deer,Alberta,7008.351712,9.15635,312.092122,0,0,0,7329.600184
+2018,G10989,1251,Owens Corning Insulating Systems Canada LP - Edmonton Plant,327990,Edmonton,Alberta,15784.01262,6.88125,93.50048,0,0,0,15884.39435
+2018,G11114,21076,Border Paving Ltd. - Portable Plant 020008,237310,Sutton,Alberta,5369.764592,2.567375,67.348596,0,0,0,5439.680563
+2018,G11739,16489,NorthRiver Midstream Inc. - Fourth Creek Gas Plant,211110,Silver Valley,Alberta,13408.1072,1766.145,218.5234,0,0,0,15392.7756
+2018,G11737,16491,NorthRiver Midstream Inc. - Pouce Coupe Gas Plant,211110,Saddle Hills County,Alberta,12164.4844,1315.9225,164.6748,0,0,0,13645.0817
+2018,G11940,,Suncor Energy Inc. - Magrath Wind Power Project,221119,Lethbridge,Alberta,12.96,0.124875,0.289656,0,0,0,13.374531
+2018,G11941,29889,Pembina Pipeline Corporation - Duvernay Kaybob Complex,211110,M.D. of Greenview,Alberta,12979.4605,1838.5625,65.6494,0,0,0,14883.6724
+2018,G11942,29956,Pembina Pipeline Corporation - WASKAHIGAN MGS 10-29-062-23W5,211110,Waskahigan,Alberta,24619.4591,4559.1025,161.0988,0,0,0,29339.6604
+2018,G11575,,Crescent Point Energy Corp. - Swan Hills Oil MWB 12-36,211110,n/a,Alberta,17539.806,1648.875,79.864,0,0,0,19268.545
+2018,G10121,4874,Agrium Inc. - Fort Saskatchewan Nitrogen Operations,325313,Fort Saskatchewan,Alberta,563953.37,10654.92068,1678.49394,0,0,0,576286.7846
+2018,G10053,3269,Agrium Inc. - Carseland Nitrogen Operations,325313,Wheatland County,Alberta,574463.2205,7690.52425,2172.66734,0,0,0,584326.4121
+2018,G10160,683,SemCams Midstream ULC - Kaybob South #3 Gas Plant,211110,Fox Creek,Alberta,349260.6618,5482.9925,1620.19024,0,0,0,356363.8445
+2018,G10069,23368,Capital Power (Alberta) Limited Partnership - Clover Bar Energy Centre,221112,Edmonton,Alberta,429505.7754,2806.0725,3310.8694,0,0,0,435622.7173
+2018,G11456,28437,SemCams Midstream ULC - Kaybob 15-28,211110,Kaybob,Alberta,13833.865,3840.45,178.7702,0,0,0,17853.0852
+2018,G11944,,Crescent Point Energy Corp. - Virginia Hills Oil MWB 04-12,211110,Calgary,Alberta,15477.186,1541.875,82.546,0,0,0,17101.607
+2018,G10006,2134,Agrium Inc. - Redwater Fertilizer Operations,325313,Sturgeon County,Alberta,1248308.578,33384.66275,6716.37466,0,0,0,1288409.615
+2018,G10475,403,Husky Oil Operations Limited - Lloydminster Refinery,324121,Lloydminster,Alberta,88199.288,358.5,390.976,0,0,0,88948.764
+2018,G10007,3974,Keyera Corp - Alberta Envirofuels,325190,Edmonton,Alberta,295032.1933,915.33,1694.7856,0,0,0,297642.3089
+2018,G11602,,Shell Canada Limited - Quest Carbon Capture and Storage (CCS) Project,211141,Fort Saskatchewan,Alberta,86.3521,13.4475,1.8178,0,0,0,101.6174
+2018,G11222,16920,ExxonMobil Canada Ltd - HARMCEN 7-12,211110,n/a,Alberta,8331.794,2704.325,76.586,0,0,0,11112.705
+2018,G11413,27699,Granite Oil Corporation - Ferguson CS 3-25-3-17W4,211110,Warner,Alberta,28232.323,3941.025,1902.5512,0,0,0,34075.8992
+2018,G11414,16604,Granite Oil Corporation - Jensen CS 16-31-4-21W4,211110,Magrath,Alberta,4670.778,1168.425,32.8992,0,0,0,5872.1022
+2018,G10627,21778,Prairie Mines & Royalty ULC - Genesee Mine,212115,Warburg,Alberta,20658.258,23916.075,536.102,0,0,0,45110.435
+2018,G11669,32460,"Perpetual Energy Inc. - West Wolf 10-3 Gas Plant	",211110,Yellowhead,Alberta,23526.9917,3625.8025,904.0724,0,0,0,28056.8666
+2018,G11946,,Perpetual Energy Inc. - Mannville 4-27 Power Generation,221112,Mannville,Alberta,1056.2457,29.6475,8.1652,0,0,0,1094.0584
+2018,G11345,17782,Westbrick Energy Ltd. - Brazeau Office 01-01,211110,Clearwater County,Alberta,21575.2716,2267.415,197.4846,0,0,0,24040.1712
+2018,G10884,21077,Border Paving Ltd. - Border Paving,237310,Rogocz Pit,Alberta,3883.053865,1.66885,38.866054,0,0,0,3923.588769
+2018,G10883,24232,Border Paving Ltd. - Border Paving 20010,237310,Red Deer,Alberta,919.317115,1.00815,30.365008,0,0,0,950.690273
+2018,G10888,21078,Border Paving Ltd. - Border Paving 20011,237310,Red Deer,Alberta,3226.553146,1.339725,28.519196,0,0,0,3256.412067
+2018,G10073,442,Imperial Oil Resources Limited - Cold Lake,211141,Grande Centre,Alberta,5553608.553,26840.93733,32042.48159,0,0,0,5612491.971
+2018,G10727,,University of Calgary - Main Campus,611310,Calgary,Alberta,73899,123,548.32,0,0,0,74570.32
+2018,G10779,28576,Enmax Generation Portfolio Inc - Shepard Energy Centre,221112,Calgary,Alberta,2136184.711,4043.97,15311.4784,0,0,0,2155540.159
+2018,G11161,15739,Alberta  Health Services - Foothills Medical Centre,622111,Calgary,Alberta,64381.31,31.25,641.20064,0,0,0,65053.76064
+2018,G11603,29978,Northern Alberta Institute of Technology - NAIT - Main Campus,611510,Edmonton,Alberta,13660,6,65.56,0,0,0,13731.56
+2018,G11530,,Alberta  Health Services - South Health Campus,622111,Calgary,Alberta,18217.57,9.25,284.5304,0,0,0,18511.3504
+2018,G10833,23190,Seven Generations Energy Ltd. - Karr 07-11-064-04W6,211110,Calgary,Alberta,125994.3,23547.5,5751.4,0,0,0,155293.2
+2018,G10735,27826,PetroChina Canada Ltd. - MacKay River Commercial Project,211141,Ft McMurray,Alberta,516717.5777,944.0825,820.9006,0,0,0,518482.5608
+2018,G10097,126,Celanese Canada ULC. - Edmonton Site,325210,Edmonton,Alberta,23339.91,172.075,197.276,1622.43,0,0,25331.691
+2018,G10563,6504,Tolko Industries Ltd. - Tolko High Level Lumber Division,321111,High Level,Alberta,37666.6428,11717.015,495.5442,0,0,0,49879.202
+2018,G10055,2857,Orica Canada Inc. - Carseland Works,325313,Carseland,Alberta,505.7614,11.95,160048.0818,0,0,0,160565.7932
+2018,G11954,28604,Husky Oil Operations Limited - HUSSAR GAS STOR 07-07-025-20W4,211110,Hussar,Alberta,4557.556,7294.0405,23.2291,0,0,0,11874.8256
+2018,G11732,,Rocky Mountain Regional Solid Waste Authority - RMRSWA Landfill,562210,Rocky Mountain House,Alberta,129,13700.25,14.9,0,0,0,13844.15
+2018,G10003,,"Foothills Pipe Lines Ltd. - Foothills Pipeline, Alberta",486210,Airdrie,Alberta,338045.2523,41680.8,2611.2548,0,0,0,382337.3071
+2018,G10046,,"Nova Gas Transmission Ltd. - TransCanada Pipeline, Alberta System",486210,FAIRVIEW,Alberta,3414169.558,420965.3175,26372.8212,0,0,0,3861507.696
+2018,G11015,6794,The Calgary Airport Authority - THE CALGARY AIRPORT AUTHORITY - CALGARY,481110,Calgary,Alberta,13357.97001,0.580075,9.358392,0,0,0,13367.90848
+2018,G11733,15437,ATCO Energy Solutions Ltd. - Carbon,221210,Carbon,Alberta,10573.5924,8581.6875,492.594,8.35,0,0,19656.2239
+2018,G11363,5200,Waste Connections of Canada Inc. - Chaparral Landfill,562210,Calgary,Alberta,147.374,33157.69268,15.88042,0,0,0,33320.9471
+2018,G10864,24237,Waste Connections of Canada Inc. - Coronation Landfill,562210,Coronation,Alberta,1369.378,74365.3756,13.12094,0,0,0,75747.87454
+2018,G11137,17036,Husky Oil Operations Limited - Amadou Compressor Station 14-03-074-20W4,211110,Calling Lake,Alberta,9413.07469,3382.53175,270.10124,0,0,0,13065.70768
+2018,G11187,18580,City of Medicine Hat - North East Station 7-15,211110,Cypress County,Alberta,9293.51,833.8375,44.8192,0,0,0,10172.1667
+2018,G11364,19717,Husky Oil Operations Limited - Ansell Compressor Station 03-06-049-18W5,211110,Yellowhead County,Alberta,22886.64822,15101.38275,521.42252,0,0,0,38509.45349
+2018,G11138,17067,Husky Oil Operations Limited - Ansell Gas Plant 07-27-051-19W5,211110,Edson,Alberta,13651.65732,17628.3375,194.356196,0,0,0,31474.35102
+2018,G11139,17070,Husky Oil Operations Limited - Galloway Gas Plant 12-05-054-20W5,211110,Edson,Alberta,10176.73143,3564.01445,52.6417,0,0,0,13793.38758
+2018,G11010,16981,Husky Oil Operations Limited - Hussar Gas Plant 13-36-024-21W4,211110,Hussar,Alberta,24061.13626,2126.08905,152.958632,0,0,0,26340.18394
+2018,G10981,17066,Husky Oil Operations Limited - Kakwa Gas Plant 10-07-063-05W6,211110,Amundson,Alberta,10110.41399,5811.8046,131.909104,0,0,0,16054.1277
+2018,G11330,18950,Husky Oil Operations Limited - Moose Moutain Oil Battery 02-23-023-07W5,211110,Bragg Creek,Alberta,18721.09741,3730.3775,298.30098,0,0,0,22749.77589
+2018,G11145,16982,Husky Oil Operations Limited - Sylvan Lake Gas Plant 01-21-038-02W5,211110,Sylvan Lake,Alberta,18028.59703,1810.98575,165.30358,0,0,0,20004.88636
+2018,G11563,,Husky Oil Operations Limited - Wainwright Multiwell Oil Battery 08-28-045-06W4,211110,Wainwright No. 61,Alberta,399.096,9980.7,2.1754,0,0,0,10381.9714
+2018,G11564,,Husky Oil Operations Limited - Wainwright Multiwell Oil Battery 09-32-045-06W4,211110,Wainwright No. 61,Alberta,999.47521,10712.62625,20.70504,0,0,0,11732.8065
+2018,G11436,28601,Husky Oil Operations Limited - HUSKY ANSELL GS 02-20-050-18W5,211110,Yellowhead County,Alberta,16889.77306,2969.5947,370.206294,0,0,0,20229.57405
+2018,G10476,1439,Husky Oil Operations Limited - Rainbow Lake Gas plant,211110,Rainbow Lake,Alberta,89544.92115,1818.9265,409.54438,0,0,0,91773.39203
+2018,G11958,26320,Tangle Creek Energy Ltd. - Rmp Waskahigan 12-07-064-23w5,211110,Little Smoky,Alberta,13981.7,4332.5,59.6,0,0,0,18373.8
+2018,G11959,17343,Tangle Creek Energy Ltd. - 02-26 Gas Plant,211110,Niton Junction,Alberta,11852.5,4617.5,59.6,0,0,0,16529.6
+2018,G11961,27910,Westbrick Energy Ltd. - Willesden Green 14-05,211110,Brazeau No. 77,Alberta,11877.9369,1006.69,106.2966,0,0,0,12990.9235
+2018,G11521,29814,North West Redwater Partnership - Sturgeon Refinery,324110,Gibbons,Alberta,433217.6206,18385.285,865.8688,0,0,0,452468.7744
+2018,G11962,16656,Long Run Exploration Ltd - LRE - Paddle North 01-06,211110,n/a,Alberta,9420.403,2506.4,73.308,0,0,0,12000.111
+2018,G11674,,Devon Canada Corporation - Amoco Kirby,211110,Wood Buffalo,Alberta,18641.2593,5358.09,861.667,0,0,0,24861.0163
+2018,G11306,,Devon Canada Corporation - Leismer 03-07,211110,n/a,Alberta,8133.9162,3338.2075,526.9832,0,0,0,11999.1069
+2018,G11310,21219,Devon Canada Corporation - Manatokan Custom Treating Facility 9-14,211110,La Corey,Alberta,19331.2459,626.5675,103.9126,0,0,0,20061.726
+2018,G11029,15160,AltaGas Ltd. - Bantry Sour Gas Plant,211110,Tilley,Alberta,12470.441,2413.1,64.964,0,0,0,14948.505
+2018,G11030,4165,AltaGas Ltd. - Edmonton Ethane Extraction Plant,211110,Edmonton,Alberta,6961.34,4343.2,38.144,0,0,0,11342.684
+2018,G10802,27021,AltaGas Ltd. - Gordondale Sour Gas Plant 16-31,211110,n/a,Alberta,84588.182,24407.36,11153.8718,0,0,0,120149.4138
+2018,G10997,15203,AltaGas Ltd. - Pouce Coupe Gas Plant 03-03,211110,n/a,Alberta,8137.814,2185.35,56.918,0,0,0,10380.082
+2018,G11257,18125,AltaGas Ltd. - Turin Sour Gas Plant,211110,Turin,Alberta,22109.375,5524.025,118.008,0,0,0,27751.408
+2018,G10815,29025,Husky Oil Operations Limited - Sunrise Thermal,211141,Fort McKay,Alberta,1680227.399,13139.29475,2916.21012,0,0,0,1696282.903
+2018,G10394,21548,Husky Oil Operations Limited - Tucker Thermal,211141,Bonneville,Alberta,790864.2103,2567.20575,1210.72036,0,0,0,794642.1364
+2018,G10435,,Canadian Natural Resources Limited - Brintnell Oil Battery and Comp Stn 1107 11-07,211110,n/a,Alberta,31594.223,960.925,175.224,0,0,0,32730.372
+2018,G10158,,Canadian Natural Resources Limited - Karr Sweet Gas Plant 10-10,211110,MD of Greenview,Alberta,71456.801,6013.325,315.88,0,0,0,77786.006
+2018,G10412,22493,Osum Production Corp. - Orion Facilities,211141,no physical address,Alberta,334774.506,741.2,493.19,0,0,0,336008.896
+2018,G10428,16009,Canadian Natural Resources Limited - Galloway Plant 14-14,211110,n/a,Alberta,42022.76,9103.825,291.146,0,0,0,51417.731
+2018,G11640,,Canadian Natural Resources Limited - Anderson Gas Battery 15-03,211110,n/a,Alberta,32887.09,10995.2,181.482,0,0,0,44063.772
+2018,G11637,,Canadian Natural Resources Limited - Ansell Sweet Gas Plant 01-24,211110,n/a,Alberta,32554.587,5218.375,177.31,0,0,0,37950.272
+2018,G11192,,Canadian Natural Resources Limited - Brintnell North Bitumen Battery 07-27,211110,n/a,Alberta,15370.97,20523,57.216,0,0,0,35951.186
+2018,G11200,,Canadian Natural Resources Limited - Smoky Sweet Gas Plant 07-36,211110,n/a,Alberta,26920.553,7483,206.514,0,0,0,34610.067
+2018,G10451,,Canadian Natural Resources Limited - Narraway Sweet Gas Plant 10-08,211110,n/a,Alberta,30554.264,3344.525,141.848,0,0,0,34040.637
+2018,G11638,,Canadian Natural Resources Limited - Bilbo Compressor Station 04-23,211110,n/a,Alberta,27891.179,3236.325,121.286,0,0,0,31248.79
+2018,G10431,,Canadian Natural Resources Limited - Wild River Compressor Station 04-03,211110,N/A,Alberta,23016.91,6647.575,177.608,0,0,0,29842.093
+2018,G11639,,Canadian Natural Resources Limited - Cecilia Sweet Gas Plant 14-36,211110,n/a,Alberta,24427.041,5131.725,148.404,0,0,0,29707.17
+2018,G11193,,Canadian Natural Resources Limited - Flat Lake 13-12,211110,n/a,Alberta,6092.734,21854.7,47.68,0,0,0,27995.114
+2018,G11196,,Canadian Natural Resources Limited - Wild Hay Gas Battery 13-24,211110,n/a,Alberta,22471.67,4467.325,134.1,0,0,0,27073.095
+2018,G10368,15596,Canadian Natural Resources Limited - Marten Hills Gas Plant,211110,n/a,Alberta,21535.009,4166.925,116.22,0,0,0,25818.154
+2018,G11309,,Canadian Natural Resources Limited - GoodFish South Sour Gas Plant 03-32,211110,n/a,Alberta,18272.962,4966.6,108.77,0,0,0,23348.332
+2018,G11078,5370,Canadian Natural Resources Limited - Sturgeon Lake South Gas Plant 02-02,211110,MD Greenview,Alberta,18974.72,5048.5,140.06,0,0,0,24163.28
+2018,G11641,,Canadian Natural Resources Limited - Knopcik Sweet Gas Plant 09-10,211110,n/a,Alberta,20115.774,2155.525,94.466,0,0,0,22365.765
+2018,G11665,,Canadian Natural Resources Limited - Wembley Oil Battery 14-03-073-08W6,211110,n/a,Alberta,16815.914,4619.625,116.22,0,0,0,21551.759
+2018,G11520,,Canadian Natural Resources Limited - Horse Sweet Gas Plant 14-23-058-26W5,211110,n/a,Alberta,17585.739,3384.675,88.804,0,0,0,21059.218
+2018,G11645,,Canadian Natural Resources Limited - Leland Compressor Station 16-27,211110,n/a,Alberta,15092.434,4586.15,121.882,0,0,0,19800.466
+2018,G11644,,Canadian Natural Resources Limited - Tilley West Compressor Station 01-03,211110,n/a,Alberta,14358.395,5297.95,97.744,0,0,0,19754.089
+2018,G11653,,Canadian Natural Resources Limited - Bantry Gas Battery 05-08,211110,n/a,Alberta,12237.707,7212.175,101.32,0,0,0,19551.202
+2018,G11642,,Canadian Natural Resources Limited - Duncan Compressor Station 10-36,211110,n/a,Alberta,13996.353,4886.475,74.798,0,0,0,18957.626
+2018,G11649,,Canadian Natural Resources Limited - Verger Compressor Station 04-02,211110,n/a,Alberta,4394.124,14159.775,19.37,0,0,0,18573.269
+2018,G11646,,Canadian Natural Resources Limited - Botha Sour Gas Plant 07-16,211110,n/a,Alberta,15513.888,2609.55,75.394,0,0,0,18198.832
+2018,G11307,,Canadian Natural Resources Limited - Ferrier 01-20,211110,n/a,Alberta,16800.072,1234.25,64.666,0,0,0,18098.988
+2018,G11178,,Canadian Natural Resources Limited - Tilley Main Gas Battery 08-16,211110,n/a,Alberta,12449.325,4897.225,87.314,0,0,0,17433.864
+2018,G11195,,Canadian Natural Resources Limited - Minehead 10-12,211110,n/a,Alberta,13635.614,3693.65,104.598,0,0,0,17433.862
+2018,G11262,,Canadian Natural Resources Limited - Teepee Creek Sour Gas Plant 07-02,211110,n/a,Alberta,16735.733,488.675,64.368,0,0,0,17288.776
+2018,G11643,,Canadian Natural Resources Limited - Chinchaga Sweet Gas Plant 01-24,211110,n/a,Alberta,13982.91,2142.7,59.898,0,0,0,16185.508
+2018,G11190,,Canadian Natural Resources Limited - Clearhills 16-11,211110,n/a,Alberta,14038.117,1930.65,57.812,0,0,0,16026.579
+2018,G11658,,Canadian Natural Resources Limited - Gold Creek Gas Battery 10-05,211110,n/a,Alberta,12386.996,3025,80.46,0,0,0,15492.456
+2018,G11205,,Canadian Natural Resources Limited - FERRIER Sweet Gas Plant 01-34,211110,n/a,Alberta,12882.476,2275.55,73.904,0,0,0,15231.93
+2018,G11328,17040,Canadian Natural Resources Limited - Warner Oil Battery 04-20-007-16W4,211110,Wrentham,Alberta,13825.606,797.8,67.944,0,0,0,14691.35
+2018,G11648,,Canadian Natural Resources Limited - Obed Gas Battery 14-32,211110,n/a,Alberta,11980.247,2471.9,68.838,0,0,0,14520.985
+2018,G11652,,Canadian Natural Resources Limited - Karr Creek Oil Battery 15-36,211110,n/a,Alberta,11065.192,3134.15,78.076,0,0,0,14277.418
+2018,G10414,22141,ConocoPhillips Surmont Partnership - Surmont SAGD Commercial Battery,211141,Anzac,Alberta,3263865.098,5945.1,5090.436,0,0,0,3274900.634
+2018,G10359,1585,Prairie Mines & Royalty ULC - Coal Valley Mine,212114,Edson,Alberta,89666.611,36332.29,9848.0358,0,0,0,135846.9368
+2018,G11503,24143,Long Run Exploration Ltd - LRE - Kakwa 07-14,211110,NA,Alberta,11722.216,3320.2,84.632,0,0,0,15127.048
+2018,G11978,30671,Praxair Canada Inc. - Fort Saskatchewan CO2 Plant,325120,Fort Saskatchewan,Alberta,17551.84,468.9,7.152,0,0,0,18027.892
+2018,G11337,,City of Camrose - Camrose Regional Landfill,562210,Camrose,Alberta,150.3586,21142.55258,163.804938,0,0,0,21456.71611
+2018,G10576,4830,West Fraser Mills Ltd. - Ranger Board,321216,Blue Ridge,Alberta,551,1464,46181.06,0,0,0,48196.06
+2018,G11624,,City of Red Deer - 1972 Landfill (non-operating),562210,Red Deer,Alberta,0,41225,8.94,0,0,0,41233.94
+2018,G10606,5239,Veresen Midstream General Partner Inc. - Hythe Brainard Sour Gas Plant,211110,n/a,Alberta,69867.853,10041.225,297.702,0,0,0,80206.78
+2018,G10417,6619,AECO Gas Storage Partnership - Suffield Gas Storage Facility,211110,Medicine Hat,Alberta,19209.997,8802.475,138.272,0,0,0,28150.744
+2018,G11057,17141,City of Red Deer - Waste Management Facility,562210,Red Deer,Alberta,404,43201.5,47.68,0,0,0,43653.18
+2018,G11147,,Canadian Natural Resources Limited - East Drumheller Sweet Gas Plant 02-05,211110,n/a,Alberta,8393.066,4594.05,67.348,0,0,0,13054.464
+2018,G11308,,Canadian Natural Resources Limited - Hamburg 11-14,211110,n/a,Alberta,9961.599,2865,38.74,0,0,0,12865.339
+2018,G11650,,Canadian Natural Resources Limited - Wild River West Gas Battery 08-30,211110,n/a,Alberta,10810.209,1718.575,54.236,0,0,0,12583.02
+2018,G11654,,Canadian Natural Resources Limited - Hamburg Sweet Gas Plant 11-33,211110,n/a,Alberta,9999.362,2401.85,47.382,0,0,0,12448.594
+2018,G11311,,Canadian Natural Resources Limited - Canadian Natural Resources Limited - WEST CULP 5-34-78-25w5,211110,n/a,Alberta,9490.078,2459.425,73.308,0,0,0,12022.811
+2018,G11068,4829,Richardson Oilseed Ltd. - Lethbridge,311990,Lethbridge,Alberta,32322.914,15.7951,167.92449,0,0,0,32506.63359
+2018,G10604,24188,Connacher Oil and Gas Limited - Algar,211141,Fort McMurray,Alberta,262939.1121,529.99975,796.3156,0,0,0,264265.4275
+2018,G10095,24315,City of Calgary - East Calgary Landfill,562210,Calgary,Alberta,6050,33018,33.972,0,0,0,39101.972
+2018,G11313,,HARVEST OPERATIONS CORP. - Markerville Compressor Station #1,211110,Red Deer,Alberta,8227.6068,3535.92,192.508,0,0,0,11956.0348
+2018,G11661,,Canadian Natural Resources Limited - Claresholm Sweet Gas Plant 13-31-011-26W4,211110,n/a,Alberta,9270.895,2063.225,59.898,0,0,0,11394.018
+2018,G11697,,HARVEST OPERATIONS CORP. - BILBO GAS PLANT,211110,Greenview,Alberta,36947.0231,6658.63,904.8472,0,0,0,44510.5003
+2018,G11183,21096,Canadian Natural Resources Limited - Beartrap Custom Treating Facility,211110,Bonnyville,Alberta,10831.466,220.25,53.64,0,0,0,11105.356
+2018,G11320,,Canadian Natural Resources Limited - South Wapiti 16-36,211110,n/a,Alberta,9320.801,1484,42.316,0,0,0,10847.117
+2018,G11197,,Canadian Natural Resources Limited - Dunvegan 10-04,211110,n/a,Alberta,8960.377,1763,52.448,0,0,0,10775.825
+2018,G11656,,Canadian Natural Resources Limited - Hangingstone Compressor Station 11-10,211110,n/a,Alberta,8816.934,1657.075,36.654,0,0,0,10510.663
+2018,G10211,1779,NOVA Chemicals Corporation - NOVA Chemicals Corporation (Joffre),325110,Lacombe,Alberta,3469607.49,8894.7978,15693.24978,0,0,0,3494195.538
+2018,G11655,,Canadian Natural Resources Limited - Narraway Gas Battery 08-33-063-13W6,211110,n/a,Alberta,8007.766,2337.15,63.772,0,0,0,10408.688
+2018,G11667,,Canadian Natural Resources Limited - Karr Creek Compressor Station 12-35-063-02W6,211110,n/a,Alberta,7924.862,2273.775,61.984,0,0,0,10260.621
+2018,G11312,,Canadian Natural Resources Limited - WIMBORNE Gas Battery 2-16-34-26W4,211110,n/a,Alberta,7457.568,2507.225,61.686,0,0,0,10026.479
+2018,G10049,16687,Cenovus Energy Inc. - Caribou North Comp Stn 11-08,211110,Bonnyville,Alberta,20939.373,8878.55,737.252,0,0,0,30555.175
+2018,G11982,30830,HARVEST OPERATIONS CORP. - BlackGold SAGD,211141,Wood Buffalo,Alberta,81410.0792,164.845,23607.0534,0,0,0,105181.9776
+2018,G10607,23543,Enmax Generation Portfolio Inc - Crossfield Energy Centre,221112,Crossfield,Alberta,118024.8078,260.325,900.3176,0,0,0,119185.4504
+2018,G11983,,AlphaBow Energy Ltd. - CHIGWELL 14-13 Gas Plant,211110,Ponoka,Alberta,10137.841,1485.8125,260.6606,0,0,0,11884.3141
+2018,G11069,16296,Alberta  Health Services - Red Deer Regional Hospital Centre,622111,Red Deer,Alberta,12200.522,5.875,251.81,0,0,0,12458.207
+2018,G11107,17192,Lynx Energy ULC - Beiseker Compressor Station 04-15,211110,Beiseker,Alberta,12050.56284,7751.798325,96.880694,0,0,0,19899.24186
+2018,G11984,21806,Lynx Energy ULC - Twining Battery 09-33,211110,Twining,Alberta,7702.644011,4970.39435,61.95867,0,0,0,12734.99703
+2018,G11108,17195,Lynx Energy ULC - Joffre Compressor Station 04-22,211110,Joffre,Alberta,8658.583077,6456.4878,69.914972,0,0,0,15184.98585
+2018,G11985,21802,Lynx Energy ULC - Penhold Central Battery 15-29,211110,Penhold C,Alberta,6188.784076,3770.713825,48.908952,0,0,0,10008.40685
+2018,G10577,18225,Whitecourt Power Limited Partnership - Whitecourt Electric Power Generating Facility,221119,Whitecourt,Alberta,1702,670.925,2418.866,0,0,0,4791.791
+2018,G10586,4591,ADM Agri-Industries Company - ADM AGRI-INDUSTRIES - ADM Lloydminster,311224,Lloydminster,Alberta,58612.4889,64.7475,463.0026,0,0,0,59140.239
+2018,G11239,2365,West Coast Reduction Ltd. - Alberta Processing Company,311119,Calgary,Alberta,14122,7,71.52,0,0,0,14200.52
+2018,G11240,4910,West Coast Reduction Ltd. - Northern Alberta Processing Company,311119,Edmonton,Alberta,16729,8.25,86.42,0,0,0,16823.67
+2018,G10312,432,Canadian Natural Resources Limited - Wapiti Gas Plant,211110,Grovedale,Alberta,100437.9098,8176.1225,2710.3696,0,0,0,111324.4019
+2018,G10324,4136,Canadian Natural Resources Limited - Wolf Lake and Primrose Plant,211141,NA,Alberta,3550948.771,35690.6225,6801.4924,0,0,0.0684,3593440.954
+2018,G11725,,Rahr Malting Canada Ltd. - Alix Malthouse,311214,Alix,Alberta,21036.242,11.6875,215.2007,0,0,0,21263.1302
+2018,G10139,15241,Canadian Natural Resources Limited - Hays Gas Plant,211110,Hays,Alberta,36813.28787,2851.354525,386.9977,0,0,0,40051.6401
+2018,G10058,6633,ENMAX Cavalier GP Inc.                                                 - Cavalier Energy Centre,221112,Strathmore,Alberta,276596.4174,526.525,2110.1678,0,0,0,279233.1102
+2018,G10744,26109,Canadian Natural Resources Limited - Kirby South 13-21-73-7W4,211141,Nisku,Alberta,715413.8443,785.485,1108.6196,0,0,0,717307.9489
+2018,G10130,2875,International Paper Company - International Paper Canadian Pulp Holdings ULC,322112,Grande Prairie,Alberta,125067.7,31960,6442.76,54.36235,0,0,163524.8224
+2018,G10799,18844,Tourmaline Oil Corp - Wild River 14-20-056-23 W5,211110,Hinton,Alberta,68681.9498,3839.175,5976.8966,0,0,0,78498.0214
+2018,G10804,28963,Athabasca Oil Corporation - AOC Hangingstone SAGD,211141,Fort McMurray,Alberta,318276.3992,3257.7075,543.105,0,0,0,322077.2117
+2018,G10639,24145,Athabasca Oil Corporation - Leismer SAGD Bitumen Battery,211141,Conklin,Alberta,494125.119,1131.035,701.7602,0,0,0,495957.9142
+2018,G10321,3751,Canlin Energy Corporation - Wildcat Hills Gas Plant,211110,Cochrane,Alberta,127514.696,1523.415,859.4916,0,0,0,129897.6026
+2018,G10382,5367,General Scrap Partnership - GenAlta Recycling Inc.,339990,Edmonton,Alberta,626.85,1.25,5.96,0,0,0,634.06
+2018,G10392,3775,General Scrap Partnership - Navajo Metals,339990,Calgary,Alberta,1633.885,2.875,40.23,0,0,0,1676.99
+2018,G10795,25300,Tourmaline Oil Corp - Banshee 15-12-050-21 W5,211110,Yellowhead County,Alberta,82596.2052,5101.1275,7181.2338,0,0,0,94878.5665
+2018,G11327,24251,Tourmaline Oil Corp - Horse 16-17-058-26-W5,211110,Hinton,Alberta,57287.0038,3457.765,5135.6128,0,0,0,65880.3816
+2018,G10825,26649,Tourmaline Oil Corp - Tourmaline Musreau 02/09-13-062-06-W6,211110,Grande Cache,Alberta,54956.19,7692.185,5740.1058,0,0,0,68388.4808
+2018,G10446,18373,Tourmaline Oil Corp - Berland Sweet Plant 14-15-059-24-W5,211110,Greenview,Alberta,45149.9907,7700.3275,8465.4946,0,0,0,61315.8128
+2018,G10797,19543,Tourmaline Oil Corp - Spirit River 06-03-078-07 W6,211110,Grand Prairie,Alberta,54864.8119,3120.9725,2348.538,0,0,0,60334.3224
+2018,G11461,28771,Tourmaline Oil Corp - Spirit River GP 03-10-077-07-W6,211110,Grand Prairie,Alberta,64841.7871,5945.685,7086.7976,0,0,0,77874.2697
+2018,G11516,29561,Tourmaline Oil Corp - Columbia 15-36,211110,Calgary,Alberta,35232.4387,6778.265,8103.723494,0,0,0,50114.4272
+2018,G10135,3758,Canlin Energy Corporation - Hanlan Robb Gas Plant,211110,Edson,Alberta,155303.6478,515.7775,397.6512,0,0,0,156217.0765
+2018,G11281,16512,Lynx Energy ULC - Hussar Crowfoot Sweet Gas Plant 14-01,211110,n/a,Alberta,23902.27988,10100.7875,144.98296,0,0,0,34148.05034
+2018,G10556,1077,Canlin Energy Corporation - Ferrier Gas Plant,211110,Rocky Mountain House,Alberta,52822.8896,4991.025,524.8376,0,0,0,58338.7522
+2018,G11474,16531,Lynx Energy ULC - Redland South Comp Station 06-04,211110,n/a,Alberta,11069.93898,6393.395575,88.033372,0,0,0,17551.36793
+2018,G11995,30686,SemCams Midstream ULC - Patterson Creek Gas Plant 11-21,211110,Greenview N16,Alberta,32577.747,5173.275,3272.2784,0,0,0,41023.3004
+2018,G11996,29810,SemCams Midstream ULC - SemCAMS Gold Creek 11-02,211110,Greenview No. 16,Alberta,24255.8576,3956.84,3315.6076,0,0,0,31528.3052
+2018,G11131,,Canlin Energy Corporation - Channel Lake 12-29,211110,NA,Alberta,10445.2843,3459.7525,487.6174,0,0,0,14392.6542
+2018,G11253,17605,Canlin Energy Corporation - Centrica Compressor Station 10-10,211110,Edson,Alberta,34732.9101,12365.4275,1151.025,0,0,0,48249.3626
+2018,G11997,29892,SemCams Midstream ULC - Elmworth 2-23 Bty,211110,Greenview No. 16,Alberta,10805.979,3645.3,230.0262,0,0,0,14681.3052
+2018,G11683,,Canlin Energy Corporation - Gilby 2-27 Gas Plant,211110,Gilby,Alberta,14706.2321,78.705,45.3556,0,0,0,14830.2927
+2018,G11284,16711,Lynx Energy ULC - Redland Comp Stn 11-19,211110,n/a,Alberta,7132.888162,4031.371125,57.777134,0,0,0,11222.03642
+2018,G11999,30786,City of Calgary - Calgary Composting Facility,562920,Calgary,Alberta,685.9,13302.75,11921.788,0,0,0,25910.438
+2018,G11285,16532,Lynx Energy ULC - Redland Sweet Gas Plant,211110,n/a,Alberta,12610.22439,5006.782925,75.82163,0,0,0,17692.82894
+2018,G11286,16509,Lynx Energy ULC - Severn Comp Stn 06-17,211110,n/a,Alberta,8880.540429,4787.5045,71.93273,0,0,0,13739.97766
+2018,G11280,16498,Lynx Energy ULC - Hussar Crowfoot Comp Stn 01-36,211110,n/a,Alberta,6280.511901,4200.54935,43.91328,0,0,0,10524.97453
+2018,G11263,19205,Pembina Pipeline Corporation - Chime 5-26 Compressor Station,211110,Greenview No. 16,Alberta,11621.7752,4203.2475,91.8436,0,0,0,15916.8663
+2018,G11459,28709,Pembina Pipeline Corporation - Musreau II 09-26-062-6W6,211110,n/a,Alberta,18038.8737,2420.3525,109.962,0,0,0,20569.1882
+2018,G10536,6623,Pembina Pipeline Corporation - Empress NGL Extraction Plant,211110,Medicine Hat,Alberta,73667.863,843.95,405.28,0,0,0,74917.093
+2018,G10714,25284,Pembina Pipeline Corporation - Musreau Gas Plant,211110,Greenview No. 16,Alberta,52077.537,11022.775,325.118,0,0,0,63425.43
+2018,G12002,30689,Seven Generations Energy Ltd. - 7G 9-28-064-04W6,211110,Kakwa,Alberta,7867.9,2182.5,208.6,0,0,0,10259
+2018,G12003,17165,Keyera Corp - Bigoray 15-07 Compressor,211110,Drayton Valley,Alberta,10703.6,2704.725,84.632,0,0,0,13492.957
+2018,G11250,16857,Keyera Corp - Brazeau Sweet Gas Plant,211110,Drayton Valley,Alberta,13802.766,3175.1,102.512,0,0,0,17080.378
+2018,G11476,28916,NuVista Energy Ltd. - Wapiti Gas Battery 08-10,211110,Calgary,Alberta,64671.628,15505.9,462.198,0,0,0,80639.726
+2018,G11443,28646,NuVista Energy Ltd. - Wapiti Gas Battery 03-36,211110,Calgary,Alberta,49894.024,12248.7,374.884,0,0,0,62517.608
+2018,G11380,26207,ORLEN Upstream Canada Ltd. - Ferrier Compressor Station 04-13-039-09W5,211110,NA,Alberta,33063.461,2383.575,153.172,0,0,0,35600.208
+2018,G11372,29060,ORLEN Upstream Canada Ltd. - Kakwa Sour Gas Processing Plant 16-07-063-05W6,211110,NA,Alberta,26088.99,1892.8,93.87,0,0,0,28075.66
+2018,G10030,1362,Keyera Corp - Brazeau River Gas Plant,211110,Drayton Valley,Alberta,64386.068,2856.5,941.978,0,0,0,68184.546
+2018,G11631,,NuVista Energy Ltd. - Wembley Comp Station 06-27,211110,n/a,Alberta,9728.207,4027.85,79.864,0,0,0,13835.921
+2018,G10484,1364,Keyera Corp - Gilby Gas Plant,211110,Rimbey,Alberta,49770.516,973.8,208.302,0,0,0,50952.618
+2018,G10485,1370,Keyera Corp - Nordegg River Gas Plant,211110,Nordegg,Alberta,32537.485,3210.3,157.344,0,0,0,35905.129
+2018,G10978,,Sinopec Canada - Wapiti Compressor Station 07-22,211110,n/a,Alberta,11735.898,3615.15,90.89,0,0,0,15441.938
+2018,G11421,,Sinopec Canada - Wapiti Comp stn 15-09,211110,n/a,Alberta,8372.348,3360.3,33.972,0,0,0,11766.62
+2018,G11249,689,Keyera Corp - Pembina  North Gas Plant,211110,Drayton Valley,Alberta,25486.73,968.825,87.314,0,0,0,26542.869
+2018,G11247,4161,Keyera Corp - Ricinus Gas Plant,211110,Rocky Mountain House,Alberta,29043.805,1536.5,95.956,0,0,0,30676.261
+2018,G10555,2227,Keyera Corp - Simonette Gas Plant,211110,Simonette,Alberta,50721.869,1905.85,188.038,0,0,0,52815.757
+2018,G10486,4152,Keyera Corp - West Pembina GP,211110,Drayton Valley,Alberta,35295.436,766.675,78.374,0,0,0,36140.485
+2018,G10277,1374,Keyera Corp - Strachan Gas Plant,211110,Rocky Mountain House,Alberta,175729.646,8969.175,2904.904,0,0,0,187603.725
+2018,G11482,29037,Keyera Corp - Zeta Creek GP 11-10,211110,Drayton Valley,Alberta,16065.379,3593.25,115.624,0,0,0,19774.253
+2018,G11853,,TELUS Communications Company - Edmonton TELUS Toll,518210,Edmonton,Alberta,11633.0639,5.581225,62.931938,0,0,0,11701.57706
+2018,G11705,,Obsidian Energy Ltd. - West Seal Bitumen Battery 14-05,211110,Calgary,Alberta,11812.104,1958.6,10.43,0,0,0,13781.134
+2018,G11005,,Obsidian Energy Ltd. - Willesden Green Sweet Gas Plant 14-01,211110,n/a,Alberta,10150.25,2769.55,41.124,0,0,0,12960.924
+2018,G11707,,Obsidian Energy Ltd. - HV South Bitumen Battery 16-13,211110,Calgary,Alberta,10810.669,956.825,21.456,0,0,0,11788.95
+2018,G11710,,Obsidian Energy Ltd. - West Seal Bitumen Battery 15-06,211110,Calgary,Alberta,10699.643,828.425,25.628,0,0,0,11553.696
+2018,G11709,,Obsidian Energy Ltd. - West Seal Battery 11-26,211110,Calgary,Alberta,10241.076,1164.5,11.92,0,0,0,11417.496
+2018,G11355,,Obsidian Energy Ltd. - Esther Sweet Gas Plant 13-19,211110,n/a,Alberta,10265.361,1142.35,41.72,0,0,0,11449.431
+2018,G12004,,Obsidian Energy Ltd. - Cynthia Compressor Station 04-05,211110,n/a,Alberta,10345.715,994.475,42.018,0,0,0,11382.208
+2018,G11004,,Obsidian Energy Ltd. - Pembalta #7 Sour Gas Plant 04-34,211110,n/a,Alberta,9908.977,705.275,40.826,0,0,0,10655.078
+2018,G12005,,Obsidian Energy Ltd. - West Seal Bitumen Battery 13-30,211110,Calgary,Alberta,11256.747,1117.55,17.284,0,0,0,12391.581
+2018,G11711,,Obsidian Energy Ltd. - Seal Bitumen Battery 05-32,211110,Calgary,Alberta,11181.081,1011.95,19.668,0,0,0,12212.699
+2018,G12006,,Obsidian Energy Ltd. - Amoco Willesden Green Oil Battery 13-27,211110,Calgary,Alberta,13396.792,6908.3,59.004,0,0,0,20364.096
+2018,G11706,,Obsidian Energy Ltd. - Seal Bitumen Battery 13-05,211110,Calgary,Alberta,10613.333,882.375,26.224,0,0,0,11521.932
+2018,G12007,,Obsidian Energy Ltd. - Cadotte Bitumen Battery 03-29,211110,Calgary,Alberta,10136.065,584.275,31.886,0,0,0,10752.226
+2018,G11708,,Obsidian Energy Ltd. - Seal Bitumen Battery 16-01,211110,Calgary,Alberta,8916.931,1613.5,12.814,0,0,0,10543.245
+2018,G10709,19876,City of Calgary - Shepard Landfill,562210,Calgary,Alberta,3148,19083,28.012,0,0,0,22259.012
+2018,G10746,25229,City of Calgary - Spyhill Landfill,562210,Calgary,Alberta,1417,50252,28.9954,0,0,0,51697.9954
+2018,G11385,5380,Aquatera Utilities Inc. - Aquatera Grande Prairie WWTP (and Landfill),221320,Grande Prairie,Alberta,6307.053205,22652.56135,1234.890842,0,0,0,30194.5054
+2018,G11290,16572,Torxen Energy Ltd. - Bassano Lathom Comp Stn 10-23-020-18W4,211110,n/a,Alberta,10925.849,2183.9,59.6,0,0,0,13169.349
+2018,G10496,22346,MEG Energy Corp. - MEG Christina Lake Regional Project,211141,Regional Municipality of Wood Buffalo,Alberta,930786.9209,12041.7265,1362.74506,0,0,0,944191.3925
+2018,G10591,,Beaver Regional Waste Management Services Commission - Beaver Regional Waste Landfill,562210,Ryley,Alberta,3604.545739,104709.072,10.009522,0,0,0,108323.6272
+2018,G11814,16763,Torxen Energy Ltd. - Alderson West Sour Gas Plant 06-02-016-15W4,211110,n/a,Alberta,9904.55,7244.525,49.468,0,0,0,17198.543
+2018,G11900,28167,Birchcliff Energy Ltd. - 07-29-78-11-W6M,211110,Gordondale,Alberta,14523.3846,2330.52,225.629806,0,0,0,17079.53441
+2018,G10806,27638,Bellatrix Exploration Ltd. - Ferrier Comp Station 13-05,211110,n/a,Alberta,72655.716,14906.65,455.046,0,0,0,88017.412
+2018,G11112,26520,Bellatrix Exploration Ltd. - Ferrier Comp Stn 09-03,211110,n/a,Alberta,41342.286,14906.1,154.364,0,0,0,56402.75
+2018,G11483,27978,Bellatrix Exploration Ltd. - Alder Flats Gas Plant 10-09,211110,Calgary,Alberta,29967.486,5010.375,196.978,0,0,0,35174.839
+2018,G11546,27820,Bellatrix Exploration Ltd. - Baptiste Comp Stn 06-21,211110,Calgary,Alberta,24337.692,5036.25,112.346,0,0,0,29486.288
+2018,G11279,18804,Bellatrix Exploration Ltd. - Brazeau Comp Stn 02-10,211110,n/a,Alberta,11821.695,6141.225,50.064,0,0,0,18012.984
+2018,G11037,19903,Bellatrix Exploration Ltd. - Willisden Green Comp Station 08-04,211110,n/a,Alberta,9813.017,3745.05,47.084,0,0,0,13605.151
+2018,G12011,29618,Bellatrix Exploration Ltd. - Willesden Green Comp Stn 05-03,211110,Calgary,Alberta,11146.927,1030.925,43.508,0,0,0,12221.36
+2018,G11542,29983,Canadian Natural Upgrading Ltd - CNUL Cliffdale Facilities,211110,Peace River,Alberta,18301.399,2049.55,66.454,0,0,0,20417.403
+2018,G10086,,ATCO Gas and Pipelines Ltd. - ATCO Gas - Distribution System,221210,Edmonton,Alberta,64332.516,78841.38,659.1462,0,0,0,143833.0422
+2018,G11815,26481,Torxen Energy Ltd. - Countess Sour Gas Plant 10-20-018-15W4,211110,n/a,Alberta,16709.353,6827.45,108.174,0,0,0,23644.977
+2018,G12012,16561,Torxen Energy Ltd. - Bassano Lathom Sweet Gas Plant 10-05-022-18W4,211110,n/a,Alberta,9226.085,1700,51.554,0,0,0,10977.639
+2018,G10588,4880,Norbord Inc. - Grande Prairie OSB Mill,321217,Grande Prairie,Alberta,16201.41,1027.02,1846.9146,0,0,0,19075.3446
+2018,G10619,24100,MEG Energy Corp. - MEG Christina Lake Cogeneration Facility,211141,Regional Municipality of Wood Buffalo,Alberta,1189991.037,1532.025,6287.4722,0,0,0,1197810.534
+2018,G10429,3753,Canadian Natural Resources Limited - Gold Creek Gas Plant,211110,Grande Prairie,Alberta,56135.414,6715.75,226.182,0,0,0,63077.346
+2018,G12013,21097,Canadian Natural Resources Limited - Elk Point Custom Treating Facility,211110,Bonnyville,Alberta,10561.753,43,58.706,0,0,0,10663.459
+2018,G11238,106,Canadian Natural Resources Limited - Dunvegan Sour Gas Plant,211110,Fairview,Alberta,19544.894,14371.05,127.544,0,0,0,34043.488
+2018,G11287,16563,Torxen Energy Ltd. - Cassils Comp Stn 13-24-019-15W4,211110,n/a,Alberta,12130.337,7981.075,78.97,0,0,0,20190.382
+2018,G12014,,Torxen Energy Ltd. - Countess Deep Comp Stn 16-14-020-16W4,211110,n/a,Alberta,8454.071,3324.15,58.11,0,0,0,11836.331
+2018,G11288,16562,Torxen Energy Ltd. - Countess Makepeace Sweet Gas Plant 12-33-022-18W4,211110,n/a,Alberta,15749.631,2094.475,84.036,0,0,0,17928.142
+2018,G11391,,ARC Resources - Ante Creek North Sweet Gas Plant 10-07,211110,n/a,Alberta,38655.685,3093.925,176.416,0,0,0,41926.026
+2018,G10811,28711,Peyto Exploration and Development Corporation - Petyo Oldman North 14-17-055-21W5,211110,n/a,Alberta,51507.01601,13425.80275,424.580864,0,0,0,65357.39962
+2018,G12015,,ARC Resources - Ante Creek Oil Battery 10-07,211110,n/a,Alberta,12819.394,1090.725,50.66,0,0,0,13960.779
+2018,G10993,15131,ARC Resources - Ante Creek North Sour Gas Plant 02-26,211110,n/a,Alberta,9580.249,1138.45,35.76,0,0,0,10754.459
+2018,G11438,,ARC Resources - Pembalta Gas Plant 09-25,211110,Calgary,Alberta,6238.85,3969.875,83.142,0,0,0,10291.867
+2018,G12016,,ARC Resources - Pembalta IV Sour Gas Plant 09-16,211110,n/a,Alberta,6734.703,3203.075,78.374,0,0,0,10016.152
+2018,G11292,16526,Torxen Energy Ltd. - Princess East Comp Stn 13-36-019-11W4 ,211110,n/a,Alberta,9746.147,2726.775,55.726,0,0,0,12528.648
+2018,G12017,,Torxen Energy Ltd. - Princess West Comp Stn 13-03-020-12W4,211110,n/a,Alberta,8130.252,2392.05,48.276,0,0,0,10570.578
+2018,G11293,16559,Torxen Energy Ltd. - Rosemary Sweet Gas Plant 08-21-021-15W4,211110,n/a,Alberta,14936.267,2811.4,91.188,0,0,0,17838.855
+2018,G11299,21457,Torxen Energy Ltd. - Tide Lake Comp Stn 01-04-018-11W4,211110,n/a,Alberta,11934.908,3946.45,92.976,0,0,0,15974.334
+2018,G11300,16560,Torxen Energy Ltd. - Verger A Sweet Gas Plant 04-28-022-16W4,211110,n/a,Alberta,8053.647,2642.75,59.302,0,0,0,10755.699
+2018,G12018,,Canadian Natural Resources Limited - Cessford Sweet Gas Plant 02-08-024-12W4,211110,n/a,Alberta,18174.861,5401.525,138.868,0,0,0,23715.254
+2018,G12019,,Torxen Energy Ltd. - Verger South Brooks Comp Stn 16-20-021-14W4,211110,n/a,Alberta,9920.725,1909.65,56.62,0,0,0,11886.995
+2018,G11301,16530,Torxen Energy Ltd. - Wayne Dalum Sweet Gas Plant 05-17-027-19W4,211110,n/a,Alberta,10692.339,4468.45,81.95,0,0,0,15242.739
+2018,G12020,,Torxen Energy Ltd. - Wintering Hills West Sweet Gas Plant 06-17-025-20W4,211110,n/a,Alberta,13658.141,3311.3,99.532,0,0,0,17068.973
+2018,G12021,,Canadian Natural Resources Limited - IRISH 16-36-54-6w4,211110,Calgary,Alberta,8724.15,1767,35.462,0,0,0,10526.612
+2018,G11451,28621,Keyera Corp - Cynthia GP & Bty,211110,Cynthia,Alberta,17349.643,3295.025,95.658,0,0,0,20740.326
+2018,G10531,17698,Peyto Exploration and Development Corporation - Peyto Oldman 11-17-055-21W5,211110,n/a,Alberta,79826.60119,22181.5735,49.163146,0,0,0,102057.3378
+2018,G12023,30822,Genalta GP II Ltd. - Carson Creek 15MW,221112,Whitecourt,Alberta,39349,61,253.3,0,0,0,39663.3
+2018,G12024,30821,Genalta GP II Ltd. - Judy Creek 15MW,221112,Whitecourt,Alberta,21801,39.25,163.9,0,0,0,22004.15
+2018,G11303,21755,Peyto Exploration and Development Corporation - Peyto Wildhay 04-21-055-23W5,211110,n/a,Alberta,31011.7546,6771.83355,555.606994,0,0,0,38339.19514
+2018,G12026,,Canadian Natural Resources Limited - Brintnell South Power Generation Plant 13-01-081-23W4,211110,n/a,Alberta,8060.5474,2188.325,255.3264,0,0,0,10504.1988
+2018,G10693,21754,Peyto Exploration and Development Corporation - Peyto Nosehill 11-21-055-20W5,211110,n/a,Alberta,52136.77418,8603.959975,928.726238,0,0,0,61669.4604
+2018,G10790,26264,Peyto Exploration and Development Corporation - Peyto Swanson 12-31-053-19W5,211110,n/a,Alberta,54123.61536,14625.08488,399.882326,0,0,0,69148.58256
+2018,G11117,22389,Peyto Exploration and Development Corporation - Peyto Galloway 09-34-053-20W5,211110,n/a,Alberta,11964.16577,6792.233825,138.249054,0,0,0,18894.64865
+2018,G10846,28710,Peyto Exploration and Development Corporation - Peyto Brazeau 06-12-044-13W5,211110,n/a,Alberta,62933.89538,13823.94635,1178.333124,0,0,0,77936.17485
+2018,G11598,,Drumheller & District Solid Waste Management Association - Drumheller & District Regional Landfill,562210,Drumheller,Alberta,179.6018,16050.18975,7.03429,0,0,0,16236.82584
+2018,G11304,19085,Peyto Exploration and Development Corporation - Peyto Kakwa 02-11-060-04W6,211110,n/a,Alberta,12700.70051,2908.92895,204.916124,0,0,0,15814.54558
+2018,G10816,29034,Genalta III GP Ltd. - West Cadotte Power Plant,221112,Peace River,Alberta,75543,100,417.2,0,0,0,76060.2
+2018,G11297,16736,IPC Alberta Ltd. - Suffield D Comp Stn 01-04,211110,n/a,Alberta,20148.18,4009.25,134.398,0,0,0,24291.828
+2018,G10437,16739,IPC Alberta Ltd. - Suffield K (Koomati) Gas Battery 04-04,211110,Medicine Hat,Alberta,19878.785,1518.525,82.248,0,0,0,21479.558
+2018,G10436,16738,IPC Alberta Ltd. - Suffield C Comp Stn 01-04,211110,n/a,Alberta,18288.765,3858.275,121.882,0,0,0,22268.922
+2018,G10235,1755,Canadian Natural Resources Limited - Progress Gas Plant,211110,Gordondale,Alberta,29689.425,1902.9,103.704,0,0,0,31696.029
+2018,G12028,21454,IPC Alberta Ltd. - Suffield Koomati River Booster 12-24,211110,n/a,Alberta,10234.678,2798.95,84.93,0,0,0,13118.558
+2018,G10668,23432,"Grande Prairie Generation, Inc. - Northern Prairie Thermal Electric Power Plant",221112,Sexsmith,Alberta,355684.0399,648.7675,2718.4752,0,0,0,359051.2826
+2018,G11296,16737,IPC Alberta Ltd. - Suffield CD Comp Stn 01-04,211110,n/a,Alberta,9415.468,2962.675,78.076,0,0,0,12456.219
+2018,G11202,4159,Canadian Natural Resources Limited - Nipisi Gas Plant,211110,n/a,Alberta,8491.691,2300.325,30.992,0,0,0,10823.008
+2018,G11294,16761,IPC Alberta Ltd. - Suffield A2 Sour Gas Plant,211110,n/a,Alberta,9420.94,1949.9,60.494,0,0,0,11431.334
+2018,G10661,,Advantage Oil and Gas Ltd.  - Glacier Sour Gas Plant 05-02,211110,Valhalla Center,Alberta,147776.787,31833.275,3736.026,0,0,0,183346.088
+2018,G11518,29586,Enerplus Corporation - Ante Creek Multi-Well Gas Battery 05-26,211110,Calgary,Alberta,10642.543,4210.075,81.056,0,0,0,14933.674
+2018,G10100,5284,Repsol Oil & Gas Canada Inc. - Edson Gas Plant,211110,Edson,Alberta,193298.371,12029.725,1539.766,0,0,0,206867.862
+2018,G10561,,Repsol Oil & Gas Canada Inc. - PETROMET WILD RIVER 10-20 PLANT,211110,NA,Alberta,55185.972,11482.15,391.274,0,0,0,67059.396
+2018,G10560,,Repsol Oil & Gas Canada Inc. - PETROMET BIGSTONE WEST FIR 14-28-59-22,211110,n/a,Alberta,46817.877,3631.425,303.364,0,0,0,50752.666
+2018,G11349,21865,Repsol Oil & Gas Canada Inc. - BP CHAUVIN SOUTH 12-19,211110,n/a,Alberta,3005.818,19439.125,14.602,0,0,0,22459.545
+2018,G11596,,Repsol Oil & Gas Canada Inc. - Wilrich 16-27 Compressor Station,211110,n/a,Alberta,13563.144,3396.6,84.93,0,0,0,17044.674
+2018,G11471,29162,Kelt Exploration - Kelt Pouce Coupe 103/06-33-077-11W6M,211110,Pouce Coupe,Alberta,21672.842,5708.7,173.436,0,0,0,27554.978
+2018,G11127,6697,DEPARTMENT OF NATIONAL DEFENCE - 4 Wing Cold Lake,911110,Cold Lake,Alberta,15859.72,11.7825,694.936,0,0,0,16566.4385
+2018,G11016,6967,DEPARTMENT OF NATIONAL DEFENCE - Canadian Forces Base - ASU Edmonton,911110,Edmonton,Alberta,18639.8823,8.9425,100.8432,0,0,0,18749.668
+2018,G10788,5287,Pembina Pipeline Corporation - Redwater Fractionation and Storage Facility,211110,Redwater,Alberta,80281.6466,4809.8775,106.088,0,0,0,85197.6121
+2018,G11517,29575,Pembina Pipeline Corporation - Redwater Fractionation Site Facility II (RFS II),211110,Gibbons,Alberta,154616.332,545.6525,804.898,0,0,0,155966.8825
+2018,G11153,6578,DEPARTMENT OF NATIONAL DEFENCE - Canadian Forces Base Suffield,911110,Ralston,Alberta,14106.1572,6.79,82.2778,0,0,0,14195.225
+2018,G11712,,Leduc & District Regional Waste Management Authority - Leduc & District Regional Waste Facility,562210,Leduc,Alberta,478.68,53360.75,23.84,0,0,0,53863.27
+2018,G11678,,Newell Regional Solid Waste Management Authority - Newell Regional Landfill,562210,Brooks,Alberta,216.09,12902,8.94,0,0,0,13127.03
+2018,G10441,,City of Lethbridge - Lethbridge Waste and Recycling Centre Disposal Site,562210,Lethbridge,Alberta,726.15,84349,473.82,0,0,0,85548.97
+2018,G11487,29038,KM Canada Rail Holdings GP Limited - Edmonton Rail Terminal,486110,SHERWOOD PARK,Alberta,13566.93631,10.446875,53.304154,0,0,0,13630.68734
+2018,G12034,29237,Outlier Resources Ltd. - Heavysound 1509,211110,Greenview No. 16,Alberta,11970.6153,1109.8175,106.5052,0,0,0,13186.938
+2018,G11673,29852,Chemtrade Logistics Inc. - Chemtrade - Fort Mcmurray GP Inc.,325189,Fort Mc,Alberta,4624.88,1.5,17.88,0,0,0,4644.26
+2018,G11541,500522,Genalta GP I Ltd. - Cadotte Power Plant,221112,PEACE RIVER,Alberta,10640,14.75,59.6,0,0,0,10714.35
+2018,G11435,28585,Genalta GP I Ltd. - Galloway Power Plant,221112,PEACE RIVER,Alberta,26968,1055,107.578,0,0,0,28130.578
+2018,G11110,2130,Chemtrade Logistics Inc. - Chemtrade - Fort Saskatchewan Sulphides,325190,Fort Saskatchewan,Alberta,6244.98,3.025,32.184,0,0,0,6280.189
+2018,G11825,6696,Canada Malting Co Ltd. - Calgary Plant,311990,Calgary,Alberta,28292,14.475,147.51,0,0,0,28453.985
+2018,G10651,2762,Weyerhaeuser Company Limited - Edson O.S.B.,321217,Edson,Alberta,17346.12,180.175,1504.6616,0,0,0,19030.9566
+2018,G10736,,AltaGas Utilities Inc. - AltaGas Utilities Inc.,221210,Leduc,Alberta,1662.21,28681.5,8.94,0,0,0,30352.65
+2018,G11270,,Cenovus Energy Inc. - Peco Sweet Comp Station 11-12,211110,n/a,Alberta,8803.68,15514.175,64.964,0,0,0,24382.819
+2018,G11266,,Cenovus Energy Inc. - Ferrier Comp Stn 13-17,211110,n/a,Alberta,16935.251,6541.65,132.312,0,0,0,23609.213
+2018,G11632,,Cenovus Energy Inc. - Cutbank Comp Stn 10-36,211110,n/a,Alberta,3846.882,11276.55,29.204,0,0,0,15152.636
+2018,G11272,,Cenovus Energy Inc. - Placid Gas Battery 06-31,211110,n/a,Alberta,8865.216,5046.1,68.54,0,0,0,13979.856
+2018,G11373,,Cenovus Energy Inc. - Resthaven Gas Battery 02-16,211110,n/a,Alberta,9581.575,3905.875,55.726,0,0,0,13543.176
+2018,G11550,,Cenovus Energy Inc. - Gilby West Sour Comp Stn 11-20,211110,Calgary,Alberta,10389.379,2554.675,77.48,0,0,0,13021.534
+2018,G11276,,Cenovus Energy Inc. - Wapiti Comp Station 07-23,211110,n/a,Alberta,4846.266,8036.825,38.144,0,0,0,12921.235
+2018,G11273,,Cenovus Energy Inc. - Pembina Comp Stn 06-09,211110,n/a,Alberta,4267.301,8596.1,33.078,0,0,0,12896.479
+2018,G11347,,Cenovus Energy Inc. - Peco Gas Battery 14-07,211110,n/a,Alberta,4284.511,7074.6,32.184,0,0,0,11391.295
+2018,G11701,,Taqa North Ltd. - CASCADE VALHALLA,211110,VALHALLA/POUCE COUPE,Alberta,21458.18,5887.75,5209.04,0,0,0,32554.97
+2018,G10096,4140,Taqa North Ltd. - East Crossfield Gas Plant 9-14-28-1W5,211110,Crossfield,Alberta,107443.9023,1942.8875,1044.49,0,0,0,110431.2798
+2018,G11699,16752,Taqa North Ltd. - PCR FERRIER 7-16 COMP.,211110,FERRIER - WEST,Alberta,21359.87,5770.25,5548.76,0,0,0,32678.88
+2018,G11700,21840,Taqa North Ltd. - Pembina Blue Rapids 04-08-047-09W5,211110,PEMBINA,Alberta,15829.81,4958.5,3635.6,0,0,0,24423.91
+2018,G11260,,Taqa North Ltd. - PETRO-CAN WHITECOURT,211110,Whitecourt,Alberta,12360.27,2438.75,2202.22,0,0,0,17001.24
+2018,G12038,,Cenovus Energy Inc. - Wapiti Comp Stn 11-18-066-10W6,211110,n/a,Alberta,7544.261,2954.35,50.958,0,0,0,10549.569
+2018,G12044,,Kelt Exploration - Wapiti Compressor Station 13-31-066-12W6,211110,n/a,Alberta,11375.487,3722.425,92.082,0,0,0,15189.994
+2018,G12045,18017,Velvet Energy Ltd. - McLeod River Sweet Gas Plant 16-36-055-15W5,211110,n/a,Alberta,9918.42,1795.25,38.74,0,0,0,11752.41
+2018,G11367,15772,Kelt Exploration - Kelt Copton 11-25,211110,n/a,Alberta,8093.712,2210.55,65.56,0,0,0,10369.822
+2018,G11392,22540,Velvet Energy Ltd. - Vero Edson Sweet Gas Plant 12-15-053-15W5,211110,n/a,Alberta,19693.053,4761.025,96.85,0,0,0,24550.928
+2018,G11475,23729,Velvet Energy Ltd. - PFI Carrot Creek Comp Stn 08-36-051-14W5,211110,n/a,Alberta,14395.291,1065.75,58.706,0,0,0,15519.747
+2018,G10771,26425,Athabasca Oil Corporation - Kaybob East 16-03,211110,Fox Creek,Alberta,14926.41,2435.925,69.732,0,0,0,17432.067
+2018,G10772,26426,Athabasca Oil Corporation - Kaybob West 07-14,211110,Fox Creek,Alberta,42163.148,9646.3,283.696,0,0,0,52093.144
+2018,G11713,29971,Athabasca Oil Corporation - Placid 6-29,211110,Fox Creek,Alberta,33181.031,8605.125,256.578,0,0,0,42042.734
+2018,G10773,26427,Athabasca Oil Corporation - Saxon 10-19,211110,Fox Creek,Alberta,15918.402,3386.6,94.466,0,0,0,19399.468
+2018,G10112,5291,Lafarge Canada Inc. - Exshaw Cement Plant,327310,Exshaw,Alberta,1183019.246,2116.529825,1661.917988,0,0,0,1186797.694
+2018,G12047,30396,Vesta Energy Ltd. - Vesta Cygnet Oil MWB 11-09-038-28W4,211110,n/a,Alberta,218.8,14250.05,0.894,0,0,0,14469.744
+2018,G11275,6626,Pine Cliff Energy Ltd. - Viking Sweet Gas Plant,211110,n/a,Alberta,20083.32,73.03,103.518346,0,0,0,20259.86835
+2018,G10977,18168,Vermilion Energy Inc. - Granada Gas Plant,211110,Township 052,Alberta,14730.449,4674.65,7.748,0,0,0,19412.847
+2018,G11848,6799,IKO Industries Ltd. - IKO Calgary,324122,Calgary,Alberta,9761.53547,6.7225,63.7124,0,0,0,9831.97037
+2018,G10065,6625,"Cenovus FCCL Ltd., as operator for FCCL Partnership - Christina Lake SAGD Bitumen Battery",211141,Lac La Biche,Alberta,3175108.135,28098.875,12663.212,0,0,0,3215870.222
+2018,G10465,6627,"Cenovus FCCL Ltd., as operator for FCCL Partnership - Foster Creek SAGD Bitumen Battery (with Cogen)",211141,Bonnyville,Alberta,3554889.899,10575.325,8026.63,0,0,0,3573491.854
+2018,G11687,,Canlin Energy Corporation - Turner Valley Battery 6-16,211110,n/a,Alberta,50716.3055,8339.945,1674.3428,0,0,0,60730.5933
+2018,G11680,,Canlin Energy Corporation - PETRO-CAN ALDERSON,211110,Alderson,Alberta,20338.0108,8248.3825,1130.9696,0,0,0,29717.3629
+2018,G11410,27719,Canlin Energy Corporation - Panther 10-13 Battery,211110,Webb,Alberta,21262.458,6249.345,938.4914,0,0,0,28450.2944
+2018,G11679,,Canlin Energy Corporation - PETRO-CAN MED HAT #3,211110,Medicine Hat,Alberta,18902.5082,7043.1725,1357.5092,0,0,0,27303.1899
+2018,G11682,,Canlin Energy Corporation - Pouce Coupe Battery 6-3,211110,Pouce Coupe,Alberta,11095.9307,5191.725,380.2778,0,0,0,16667.9335
+2018,G11681,,Canlin Energy Corporation - PETRO-CAN MED HAT #1,211110,Medicine Hat,Alberta,8743.704,4735.65,538.7542,0,0,0,14018.1082
+2018,G11684,,Canlin Energy Corporation - PETRO-CAN GILBY,211110,Gilby,Alberta,10280.7264,2862.25,726.226,0,0,0,13869.2024
+2018,G10707,,Cenovus Energy Inc. - Wolf Lake Sweet Gas Plant,211110,n/a,Alberta,33171.181,19116.6,230.354,0,0,0,52518.135
+2018,G11271,,Cenovus Energy Inc. - Peco Sweet Gas Plant,211110,n/a,Alberta,17613.658,12074.05,111.452,0,0,0,29799.16
+2018,G11268,,Cenovus Energy Inc. - Lodgepole Sweet Gas Plant,211110,n/a,Alberta,8565.4,4558.5,64.964,0,0,0,13188.864
+2018,G10106,23956,Cenovus Energy Inc. - Elmworth Gas Plant,211110,Elmworth,Alberta,194916.352,5990.15,1632.444,0,0,0,202538.946
+2018,G12053,,ENMAX Corporation - District Energy Centre,221330,Calgary,Alberta,14370,1290.9275,802.1266,0,0,0,16463.0541
+2018,G11168,5345,Cenovus Energy Inc. - Niton Sweet Gas Plant,211110,Niton,Alberta,12916.585,12270.6,58.11,0,0,0,25245.295
+2018,G11265,,Cenovus Energy Inc. - Alder Flats Sweet Gas Plant,211110,n/a,Alberta,9673.443,6066.525,69.136,0,0,0,15809.104
+2018,G11549,,Cenovus Energy Inc. - Sand Creek Sour Gas Plant,211110,Calgary,Alberta,19954.983,1380.15,49.766,0,0,0,21384.899
+2018,G11269,,Cenovus Energy Inc. - Medicine River Sour Gas Plant,211110,n/a,Alberta,8428.359,3768.6,40.528,0,0,0,12237.487
+2018,G11274,,Cenovus Energy Inc. - Resthaven Sweet Gas Plant,211110,n/a,Alberta,5806.585,5291.125,45.296,0,0,0,11143.006
+2018,G11365,25053,Ikkuma Resources Corp. - Chungo Compressor Station 05-26-043-18W5,211110,Clearwater County,Alberta,10473.7,5.115,54.1466,0,0,0,10532.9616
+2018,G11511,16521,Pine Cliff Energy Ltd. - Pancan Alderson Monogram 13-14,211110,n/a,Alberta,13173.76,440.7275,68.54,0,0,0,13683.0275
+2018,G11979,16869,New Star Energy Ltd. - Highvale Sour Gas Plant 10-04,211110,n/a,Alberta,21757.924,1872.025,86.122,0,0,0,23716.071
+2018,G11509,16611,Pine Cliff Energy Ltd. - Altana Pendant D'oreille 01-17,211110,n/a,Alberta,11789.81,428.5,62.58,0,0,0,12280.89
+2018,G12055,1368,Pine Cliff Energy Ltd. - Morrin Ghost Pine Sweet Gas Plant,211110,n/a,Alberta,20767.21,265.5,107.28,0,0,0,21139.99
+2018,G12056,16237,Pine Cliff Energy Ltd. - Huxley Sweet Gas Plant,211110,n/a,Alberta,14315.43,47.75,71.52,0,0,0,14434.7
+2018,G11717,27828,Strath Resources Ltd. - Jayar 06-08-062-03W6,211110,Jayar,Alberta,35190.97,15.4625,165.705284,0,0,0,35372.13778
+2018,G12057,,Foothills Regional Services Commission - Foothills Regional Landfill & Resource Recovery Centre,562210,Okotoks,Alberta,563.3,46441.75,467.86,0,0,0,47472.91
+2018,G10134,17122,Greenfire Hangingstone Operating Corporation - Hangingstone SAGD Demonstration Facility,211141,RM of Wood Buffalo,Alberta,16524.1263,160.16,93.7508,0,0,0,16778.0371
+2018,G12058,27833,Baytex Energy Ltd - Seal 03-05-083-14W5,211110,Seal,Alberta,9616.216,264.64,403.4622,0,0,0,10284.3182
+2018,G10686,1782,Methanex Corporation - Methanex Medicine Hat Methanol Plant,325190,Medicine Hat,Alberta,423503.9284,2170.3575,2081.6194,0,0,0,427755.9053
+2018,G11623,,Baytex Energy Ltd - Harmon Valley 04-14-084-19W5,211110,HARMON VALLEY,Alberta,13898.9537,90.47,86.718,0,0,0,14076.1417
+2018,G10979,18169,Vermilion Energy Inc. - Eta Lake Gas Plant,211110,Township 051,Alberta,12121.147,3863.45,6.854,0,0,0,15991.451
+2018,G10976,18170,Vermilion Energy Inc. - West Pembina Battery and Compressor,211110,Township 050,Alberta,14931.975,6651.95,7.748,0,0,0,21591.673
+2018,G11371,25302,Vermilion Energy Inc. - Cynthia Battery,211110,Township 051,Alberta,9288.41,1711.525,5.364,0,0,0,11005.299
+2018,G11749,16188,Enercapita Energy Ltd. - Worsley (Birchcliff) Sour Gas Plant,211110,n/a,Alberta,16205.339,791.775,72.414,0,0,0,17069.528
+2018,G10155,440,Accel Energy Canada Limited - Judy Creek Gas Conservation Plant,211110,Swan Hills,Alberta,45760.588,4495.25,581.994,0,0,0,50837.832
+2018,G11179,23628,Accel Energy Canada Limited - JCWP 7-6,211110,Swan Hills,Alberta,28248.446,82.4,374.288,0,0,0,28705.134
+2018,G11258,17445,Accel Energy Canada Limited - South Swan Hills,211110,Swan Hills,Alberta,14488.995,33.875,187.74,0,0,0,14710.61
+2018,G10656,21706,Accel Canada Holdings Limited - Carson Creek GP 4-23,211110,Whitecourt,Alberta,17492.236,3604.375,150.192,0,0,0,21246.803
+2018,G11182,438,Accel Canada Holdings Limited - Redwater Sour Gas Plant 01-29,211110,Redwater,Alberta,12100.976,596.3,49.468,0,0,0,12746.744
+2018,G10659,24130,Baytex Energy Ltd - Seal 04-33-082-15W5,211110,Seal Lake,Alberta,20588.4342,486.045,684.953,0,0,0,21759.4322
+2018,G11446,28499,Baytex Energy Ltd - HARMON VALLEY 05-13-084-19W5,211110,HARMON VALLEY,Alberta,9961.873,681.85,609.4994,0,0,0,11253.2224
+2018,G11185,22491,Baytex Energy Ltd - Seal Lake 08-08-083-14W5,211110,Peace River,Alberta,12865.1348,437.6075,609.0524,0,0,0,13911.7947
+2018,G11420,27808,Baytex Energy Ltd - Seal 13-17-084-18W5,211110,Seal,Alberta,26437.4608,2751.88,27.5352,0,0,0,29216.876
+2018,G12066,30747,Baytex Energy Ltd - 03-18-084-17W5,211110,NA,Alberta,19322.9265,1273.9425,369.4902,0,0,0,20966.3592
+2018,G12067,29997,Baytex Energy Ltd - 01-34-032-02W4,211110,NA,Alberta,8571.1179,982.5925,509.4906,0,0,0,10063.201
+2018,G11216,15385,Karve Energy Inc. - Consort Sweet Gas Plant,211110,Consort,Alberta,22564.975,554.9,111.75,0,0,0,23231.625
+2018,G11514,29557,Tourmaline Oil Corp - Wildhay 11-22,211110,Calgary,Alberta,8876.6211,469.9875,794.5276,0,0,0,10141.1362
+2018,G12080,23386,Tourmaline Oil Corp - Mulligan Fourth Creek 15-13-082-09-W6,211110,Grande Prairie,Alberta,10602.2255,768.9825,762.582,0,0,0,12133.79
+2018,G11011,21388,Tourmaline Oil Corp - Obed 01-21,211110,Obed,Alberta,10887.7184,576.3,974.4004,0,0,0,12438.4188
+2018,G11463,28775,Tourmaline Oil Corp - Harley 08-10-057-27-W5,211110,Grand Cache,Alberta,11479.617,548.6475,923.8,0,0,0,12952.0645
+2018,G11486,29120,Tourmaline Oil Corp - Tourmaline 12-06-081-07-W6,211110,Blueberry Mountain,Alberta,14226.8679,769.055,1277.377,0,0,0,16273.2999
+2018,G10798,18010,Tourmaline Oil Corp - Tourmaline Musreau 02/08-13-062-06-W6 Ggs,211110,Grande Cache,Alberta,13362.7198,830.095,941.4118,0,0,0,15134.2266
+2018,G11387,26195,Tourmaline Oil Corp - Anderson 01-09-051-24-W5,211110,Hinton,Alberta,15206.1282,926.735,1300.0548,0,0,0,17432.918
+2018,G11515,29558,Tourmaline Oil Corp - Duverney 15-04,211110,Calgary,Alberta,17647.8294,929.69,1584.168,0,0,0,20161.6874
+2018,G11326,24141,Tourmaline Oil Corp - Hinton 06-32-51-25 W5,211110,Hinton,Alberta,20585.6616,1107.835,1818.843,0,0,0,23512.3396
+2018,G11485,22495,Tourmaline Oil Corp -  Tourmaline Chin/09-29 Ggs ,211110,Calgary,Alberta,22105.8373,993.0875,1724.228,0,0,0,24823.1528
+2018,G11480,26616,Tourmaline Oil Corp - Ansell Comp 1-34-51-18w5,211110,Ansell,Alberta,23644.4686,1469.5675,1909.7032,0,0,0,27023.7393
+2018,G11481,29119,Tourmaline Oil Corp - Edson 04-17-051-18-W5,211110,Edson,Alberta,34810.9168,1920.5425,2840.5658,0,0,0,39572.0251
+2018,G11418,28047,Tourmaline Oil Corp - Wild River 11-16-055-24-W5,211110,Hinton,Alberta,37542.3326,1875,3093.091,0,0,0,42510.4236
+2018,G10814,21390,Tourmaline Oil Corp - Sundance 15-07,211110,Calgary,Alberta,42869.8309,2265.0475,3837.0778,0,0,0,48971.9562
+2018,G11434,15555,Boulder Energy Ltd. - Brazeau CS 06-27-047-14W5,211110,Cynthia,Alberta,17510,822.5,68.54,0,0,0,18401.04
+2018,G11408,28034,Surge Energy Inc. - Shaunavon Oil Battery 01-15,211110,n/a,Alberta,21375.187,8413.65,29.8,0,0,0,29818.637
+2018,G11366,18841,Surge Energy Inc. - Valhalla Oil Battery 06-18,211110,La Glace,Alberta,12590.962,6497.65,55.428,0,0,0,19144.04
+2018,G11130,1042,SUEZ Canada Waste Services Inc. - Swan Hills Treatment Center,562210,Swan Hills,Alberta,32301.5,472.525,9610.5,0,0,0,42384.525
+2018,G12048,29955,Coalspur Mines (Operations) Ltd. - Vista Mine,212115,Hinton,Alberta,15835.02,16.46075,263.38134,0,0,0,16114.86209
+2018,G10776,536,NuVista Energy Ltd. - Wembley Gas Plant,211110,Wembley,Alberta,42782.967,4350.1,225.288,0,0,0,47358.355
+2018,G11702,,Regional Municipality of Wood Buffalo - Fort McMurray Regional Landfill,562210,Fort McMurray,Alberta,2117.56,61052.225,158.238,0,0,0,63328.023
+2018,G10371,1074,NAL Resources Management - Olds Gas Plant,211110,Olds,Alberta,101670.2515,2720.1925,931.101,0,0,0,105321.545
+2018,G12086,19383,"CertainTeed Gypsum Canada, Inc. - Calgary Wallboard Plant",327420,Calgary,Alberta,27087,15.25,143.04,0,0,0,27245.29
+2018,G12087,29228,Modern Resources Inc. - Kakwa Gas Plant 07-09-062-08 W6M ,211110,Kakwa,Alberta,30383.47,1591.9175,114.0148,0,0,0,32089.4023
+2018,G10491,947,Lantic Inc. Taber Factory - Lantic Inc. Taber Beet Sugar Factory,311310,Taber,Alberta,85329.7416,24339.895,1114.5796,0,0,0,110784.2162
+2018,G10962,,Regional Municipality of Wood Buffalo - Fort McMurray Class 1 Composting Facility,562210,Fort McMurray,Alberta,0,3450,3087.28,0,0,0,6537.28
+2018,G11040,6502,Regional Municipality of Wood Buffalo - Fort McMurray WWTP,221320,Fort McMurray,Alberta,22.435,11325.06,3.576,0,0,0,11351.071
+2018,G12088,30836,High Ground Energy Inc. - MONITOR 02-03-035-05W4 COMPRESSOR STATION,211110,n/a,Alberta,4233.783336,2.68275,5979.449268,0,0,0,10215.91535
+2018,G11001,17543,Cardinal Energy Ltd. - Scots Lake 13-7-16-11W4,211110,Brooks,Alberta,11483.372,22.1025,86.0028,0,0,0,11591.4773
+2018,G10999,17047,Cardinal Energy Ltd. - Jenner 11-21-20-8W4,211110,Jenner,Alberta,14094.7239,27.6045,101.79978,0,0,0,14224.12818
+2018,G11000,16149,Cardinal Energy Ltd. - Mitsue Sour GP 10-30-72-4W5,211110,Slave Lake,Alberta,13634.195,63.05,68.8082,0,0,0,13766.0532
+2018,G12089,31752,Cardinal Energy Ltd. - House Mountain GP 1-8-70-10W5,211110,Swan Hills,Alberta,17304.266,37.555,126.054,0,0,0,17467.875
+2018,G12091,23007,NAL Resources Management - Garrington 03-03-35-04 W5,211110,Garrington,Alberta,10145.775,3602.7,76.288,0,0,0,13824.763
+2018,G12092,26149,NAL Resources Management - LOCHEND 03-20-027-03W5,211110,Rocky View County,Alberta,10250.32,7267.75,80.46,0,0,0,17598.53
+2018,G12093,,NAL Resources Management - Olds 06-09,211110,Olds,Alberta,9828.34,5993.75,50.66,0,0,0,15872.75
+2018,G12094,15065,NAL Resources Management - WESTWARD HO 6&07-08-033-04W5,211110,CALGARY,Alberta,12769.71,4903.25,68.54,0,0,0,17741.5
+2018,G11177,17247,NAL Resources Management - NAL Sturgeon Lake Gas Plant 13-07-069-24-W5,211110,Sturgeon Lake,Alberta,12226.89,9445.5,95.36,0,0,0,21767.75
+2018,G12096,21722,NAL Resources Management - Olds 16-33-30-1W5,211110,Calgary,Alberta,17380.75,4559,83.44,0,0,0,22023.19
+2018,G10499,6559,NAL Resources Management - Sylvan Lake Gas Plant 14-32-037-03W5M,211110,Sylvan Lake,Alberta,46235.603,9223.1,171.648,0,0,0,55630.351
+2018,G12081,15319,Paramount Resources Ltd. - Zama Battery 03-10,211110,Zama City,Alberta,10955.261,860.8,36.654,0,0,0,11852.715
+2018,G11219,15348,Paramount Resources Ltd. - Leafland Facility,211110,Rocky Mountain House,Alberta,8707.26,1274.975,55.428,0,0,0,10037.663
+2018,G10326,28444,Paramount Resources Ltd. - Zama Plant 4,211110,Zama,Alberta,10167.887,203.225,54.236,0,0,0,10425.348
+2018,G11170,15539,Paramount Resources Ltd. - EAST GARRINGTON PLANT,211110,n/a,Alberta,9869.111,583.9,46.786,0,0,0,10499.797
+2018,G12082,15320,Paramount Resources Ltd. - Zama Battery 14-12,211110,Zama City,Alberta,13961.596,1910.55,79.268,0,0,0,15951.414
+2018,G11217,19309,Paramount Resources Ltd. - Wildhay Cecilia-Kaybob Plant,211110,Swan Hills,Alberta,12708.941,2402.1,82.844,0,0,0,15193.885
+2018,G10726,3754,Paramount Resources Ltd. - Kaybob Gas Plant,211110,Fox Creek,Alberta,35992.593,1928.8,164.198,0,0,0,38085.591
+2018,G11101,16161,Paramount Resources Ltd. - Simonette Battery 16-17,211110,n/a,Alberta,13970.398,746.425,78.97,0,0,0,14795.793
+2018,G10767,21911,Paramount Resources Ltd. - PARA KAYBOB 12-10-064-19W5,211110,n/a,Alberta,35251.046,922.275,175.522,0,0,0,36348.843
+2018,G11457,24548,Paramount Resources Ltd. - PARA KARR 06-18 COMPRESSOR,211110,Calgary,Alberta,68904.711,14106.55,446.106,0,0,0,83457.367
+2018,G11100,21914,Paramount Resources Ltd. - Trilogy Presley 03-29 100%,211110,n/a,Alberta,25683.579,7293.6,99.83,0,0,0,33077.009
+2018,G11099,17422,Paramount Resources Ltd. - TRILOGY TWO CREEK 07-04,211110,n/a,Alberta,18092.352,2445.75,81.056,0,0,0,20619.158
+2018,G11880,,Town of Hinton - West Yellowhead Regional Landfill,562210,Hinton,Alberta,0,17775,0,0,0,0,17775
+2018,G10144,2991,West Fraser Mills Ltd. - Hinton Pulp,322112,Hinton,Alberta,152430.0836,28891.51,12541.926,0,0,0,193863.5196
+2018,G11593,,Redcliff Cypress Waste Management Authority - Redcliff Cypress Regional Landfill,562210,Cypress County,Alberta,3407.08,23800.75,2.98,0,0,0,27210.81
+2018,G10408,23275,Canadian Natural Resources Limited - Horizon Oil Sands Processing Plant and Mine,211142,Fort McMurray,Alberta,4850613.477,792092.565,24816.7844,855.998,0,129.96,5668508.784
+2018,G10237,426,Caledonian Midstream - Quirk Creek Gas Plant,211110,Millarville,Alberta,83171.01,2548.79,1180.9144,0,0,0,86900.7144
+2018,G11045,17516,Strategic Oil & Gas Ltd. - Steen River Gas Plant,211110,Steen River,Alberta,16330.952,1342.175,75.096,0,0,0,17748.223
+2018,G11993,,NAT-1 GP Inc.  - NAT-1 Ralston ,221112,Suffield,Alberta,32155.87,211.25,253.3,0,0,0,32620.42
+2018,G11154,22579,Long Run Exploration Ltd - LRE - Alexis 03-36,211110,n/a,Alberta,12043.558,743.6,30.396,0,0,0,12817.554
+2018,G11181,15475,Long Run Exploration Ltd - LRE - Cherhill Gas Plant 02-25,211110,NA,Alberta,9329.805,3402.1,64.964,0,0,0,12796.869
+2018,G11012,23475,Long Run Exploration Ltd - LRE - Edson Gas Plant 01-13,211110,Edson,Alberta,19869.373,6158.075,78.97,0,0,0,26106.418
+2018,G10980,22929,Long Run Exploration Ltd - LRE - Kenzie Oil Battery 13-04,211110,n/a,Alberta,9762.028,1615.75,66.752,0,0,0,11444.53
+2018,G11155,22578,Long Run Exploration Ltd - LRE - Donnelly 06-01,211110,n/a,Alberta,15756.895,4010.225,114.432,0,0,0,19881.552
+2018,G10281,2284,TransAlta Generation Partnership - Sundance Thermal Electric Power Generating Plant,221112,Duffield,Alberta,3376697.037,3724.82315,19106.866,0,0,0,3399528.726
+2018,G10162,2286,TransAlta Generation Partnership - Keephills Thermal Electric Power Generating Plant,221112,Duffield,Alberta,8455037.813,4489.4173,46147.22031,0,0,0,8505674.45
+2018,G10143,21885,TransAlta Generation Partnership - Highvale Coal Mine,212115,Seba Beach,Alberta,100049.481,182.27305,1350.756222,0,0,0,101582.5103
+2018,G10029,3749,Tidewater Midstream and Infrastructure Ltd. - Brazeau Gas Plant,211110,Drayton Valley,Alberta,103896.5044,7022.74,1620.1068,0,0,0,112539.3512
+2018,G10243,407,Tidewater Midstream and Infrastructure Ltd. - Ram River,211110,Rocky Mountain House,Alberta,297527.0363,3403.4025,1214.499,0,0,0,302144.9378
+2018,G11002,30728,Tidewater Midstream and Infrastructure Ltd. - Acheson Sour Gas Plant 05-02-053-26W4,211110,n/a,Alberta,9626.3092,2090.1175,51.2262,0,0,0,11767.6529
+2018,G11704,6537,Tidewater Midstream and Infrastructure Ltd. - Paddle River Sour Gas Processing Plant,211110,Paddle River,Alberta,15987.4676,2273.6475,113.9254,0,0,0,18375.0405
+2018,G12090,17209,Tidewater Midstream and Infrastructure Ltd. - Gilby Sweet Gas Plant 01-04,211110,Gilby,Alberta,5808.3142,5100.44,12.6054,0,0,0,10921.3596
+2018,G11024,22106,Tidewater Midstream and Infrastructure Ltd. - Marten Creek Sour Gas Plant 10-02,211110,n/a,Alberta,4980.3981,5252.5175,5.4832,0,0,0,10238.3988
+2018,G11003,22557,Tidewater Midstream and Infrastructure Ltd. - Slave Lake Sour Gas Plant 09-15,211110,n/a,Alberta,29127.628,259.8075,65.8282,0,0,0,29453.2637
+2018,G11144,17072,Tidewater Midstream and Infrastructure Ltd. - Stolberg Dehy 02-03-041-14W5,211110,Nordegg,Alberta,16135.8556,3611.685,30.6046,0,0,0,19778.1452
+2018,G10992,15187,Tidewater Midstream and Infrastructure Ltd. - Alder Flats Sweet Gas Plant 11-33,211110,n/a,Alberta,13292.0173,3694.5275,15.5258,0,0,0,17002.0706
+2018,G10111,6826,Graymont Western Canada Inc. - Exshaw Plant,327410,Exshaw,Alberta,155484.842,26.8325,259.75766,0,0,0,155771.4322
+2018,G10044,3821,Canadian Fertilizers Limited - Canadian Fertilizers Limited,325313,Medicine Hat,Alberta,1817431.758,1774.9275,3888.0954,0,0,0,1823094.781
+2018,G12119,31761,Northstone Power Corp - Elmworth Generating Station,221112,Elmworth,Alberta,13778,90.5675,107.9654,0,0,0,13976.5329
+2018,G11688,,Bonavista Energy Corporation - Willesden Gn 16-12-42-6W5,211110,Willesden,Alberta,6827.572191,4422.36375,264.97862,0,0,0,11514.91456
+2018,G10670,25231,DAPP Power LP - DAPP Power LP,221119,Westlock,Alberta,753.599,525.94,4165.891,0,0,0,5445.43
+2018,G10963,19544,Tourmaline Oil Corp - Wroe 8-12,211110,Wroe,Alberta,26043.8775,1393.5075,2308.6358,0,0,0,29746.0208
+2018,G10219,2128,Canadian Natural Upgrading Ltd - CNUL Peace River Complex,211141,Peace River,Alberta,305043.5248,2710.525,1366.032,0,0,0,309120.0818
+2018,G10817,29066,Pengrowth Energy Corporation - LINDBERGH SAGD 04-25,211141,Lindbergh,Alberta,430671.2809,1966.4125,2480.1646,0,0,0,435117.858
+2018,G12139,17185,Signalta Resources Ltd. - Burdett Power Plant 04-14,221112,Burdett,Alberta,5657.1583,35.7625,42.614,0,0,0,5735.5348
+2018,G12138,17186,Signalta Resources Ltd. - Coaldale Power Plant 05-05,221112,Lethbridge,Alberta,4548.1577,28.6425,34.1508,0,0,0,4610.951
+2018,G12137,17184,Signalta Resources Ltd. - Taber Power Plant 02-14,221112,Taber,Alberta,6215.0968,39.2025,46.7264,0,0,0,6301.0257
+2018,G11935,17187,Signalta Resources Ltd. - Fort MacLeod Power Plant 05-30,221112,Fort MacLeod,Alberta,3175.8051,19.16,22.8268,0,0,0,3217.7919
+2018,G10220,223,Mercer Peace River Pulp Ltd.  - Mercer Peace River,322112,MD of Northern Lights,Alberta,128975.1341,2166.6425,11849.7018,0,0,0,142991.4784
+2018,G10269,2960,Shell Canada Products  - Shell Scotford Refinery,324110,Fort Saskatchewan,Alberta,957577.6898,3420.9625,2491.6674,4.291165,0,0,963494.6109
+2018,G10278,3707,"Imperial Oil - Imperial Oil, Strathcona Refinery",324110,Edmonton,Alberta,1311372.23,6252.675,4742.5508,0,0,0,1322367.456
+2018,G10497,878,Millar Western Forest Products Ltd. - Whitecourt Pulp Division,322111,Whitecourt,Alberta,52696.31353,324.5587,14023.4634,0,0,0,67044.33562
+2018,G12136,5375,Millar Western Forest Products Ltd. - Fox Creek Division,321111,Fox Creek,Alberta,9041.058554,44.67835,53.28985,0,0,0,9139.026754
+2018,G12135,6505,Millar Western Forest Products Ltd. - Whitecourt Solid Wood Division,321111,Whitecourt,Alberta,24856.19989,124.79485,148.837888,0,0,0,25129.83263
+2018,G11870,16600,Ember Resources Inc. - Gayford South Comp Stn 12-35,211110,n/a,Alberta,7693.806879,4.462325,13591.07106,0,0,0,21289.34026
+2018,G11860,15369,Ember Resources Inc. - NEVIS 12-07-041-22-W4,211110,Mirror,Alberta,16872.708,9.34375,28364.76912,0,0,0,45246.82087
+2018,G11858,21031,Ember Resources Inc. - Torrington 08-28-032-26W4,211110,Red Deer,Alberta,7729.570393,4.269125,13015.92927,0,0,0,20749.76879
+2018,G11857,22289,Ember Resources Inc. - Entice Sweet Gas Plant 05-31,211110,Calgary,Alberta,7461.711863,4.3277,13181.0764,0,0,0,20647.11596
+2018,G11856,16591,Ember Resources Inc. - Entice System 2 Sweet Gas Plant 01-24,211110,n/a,Alberta,5787.102028,3.37755,10287.15251,0,0,0,16077.63209
+2018,G11873,23549,Ember Resources Inc. - Twining Gas Battery and Comp Stn 12-10,211110,n/a,Alberta,10731.0111,6.24395,19017.47434,0,0,0,29754.72939
+2018,G10464,16932,Ember Resources Inc. - 04-15-040-24-W4M Clive ENH,211110,Clive,Alberta,7648.763461,4.622925,14057.90206,0,0,0,21711.28845
+2018,G11871,15374,Ember Resources Inc. - 06-24-039-23W4 Alix,211110,Stettler,Alberta,7449.976101,4.375625,12327.34186,0,0,0,19781.69359
+2018,G11869,18820,Ember Resources Inc. - Norfolk Gas Battery 13-13,211110,n/a,Alberta,9149.027054,5.349,11985.37405,0,0,0,21139.7501
+2018,G11868,23547,Ember Resources Inc. - 14-35-29-24-W4M Swalwell Comp Stn ,211110,n/a,Alberta,8971.486042,5.23895,15956.53546,0,0,0,24933.26045
+2018,G11867,19308,Ember Resources Inc. - NEVIS NORTH 06-11-042-23W4,211110,Mirror,Alberta,6820.875282,3.787325,11526.41739,0,0,0,18351.08
+2018,G11866,16589,Ember Resources Inc. - Gayford Sweet Gas Plant 10-31,211110,n/a,Alberta,6030.537356,3.49765,10652.91383,0,0,0,16686.94884
+2018,G11865,16126,Ember Resources Inc. - 01-22-27-25-W4M Entice Comp Stn,211110,Irricanaa,Alberta,4048.981456,2.4084,7335.383538,0,0,0,11386.77339
+2018,G11864,19577,Ember Resources Inc. - Linden Comp Stn 07-11,211110,n/a,Alberta,5114.432075,3.04215,9265.619534,0,0,0,14383.09376
+2018,G11863,23527,Ember Resources Inc. - Ewing Lake Comp Stn 15-33,211110,n/a,Alberta,6366.367887,3.71,11299.68141,0,0,0,17669.7593
+2018,G12121,15342,Ember Resources Inc. - GADSBY 12-15-037-19W4,211110,Stettler,Alberta,3748.056068,2.25015,6894.292878,0,0,0,10644.5991
+2018,G11859,29012,Ember Resources Inc. - 16-07-29-26-W4M Acme,211110,n/a,Alberta,10295.52948,5.990575,18245.7655,0,0,0,28547.28555
+2018,G10054,6700,TransCanada Energy Ltd. - Carseland Power Plant,221112,Carseland,Alberta,359301.1563,711.495,2542.536,0,0,0,362555.1873
+2018,G11902,30561,City of Medicine Hat - Electric Utility - Generation - Remote Site,221112,Redcliff,Alberta,143778.6501,1109.5625,1099.62,0,0,0,145987.8326
+2018,G11872,16594,Ember Resources Inc. - Lyalta Comp Stn 14-26,211110,n/a,Alberta,7850.024614,4.552925,13867.02889,0,0,0,21721.60643
+2018,G12126,,TERIC Power Ltd - Killam Sunrise,221112,Hardisty,Alberta,4417.21,28.5,32.78,0,0,0,4478.49
+2018,G12122,22281,Ember Resources Inc. - 02-01-041-24W4 Chigwell Gas Battery,211110,Clive,Alberta,5478.130621,3.16975,9800.747372,0,0,0,15282.04774
+2018,G12133,24477,Ember Resources Inc. - 01-36-30-26-W4M Twining Comp Stn,211110,n/a,Alberta,5503.134104,3.19175,9721.258554,0,0,0,15227.58441
+2018,G12132,21400,Ember Resources Inc. - 04-01-042-22W4 Bashaw,211110,Bashaw,Alberta,4838.99746,2.778975,8464.969822,0,0,0,13306.74626
+2018,G12131,19306,Ember Resources Inc. - Stewart 07-07-032-27W4   ,211110,Red Deer,Alberta,4663.876776,2.56605,7852.310132,0,0,0,12518.75296
+2018,G12130,16135,Ember Resources Inc. - 16-18-26-26-W4M Lyalta Comp Stn,211110,n/a,Alberta,4204.52189,2.500925,7617.170252,0,0,0,11824.19307
+2018,G12129,21422,Ember Resources Inc. - 05-19-31-22-W4M Ghost Hills Comp Stn,211110,n/a,Alberta,4193.96882,2.49465,7598.051764,0,0,0,11794.51523
+2018,G12128,16125,Ember Resources Inc. - 01-03-035-19W4,211110,N/A,Alberta,4251.067271,2.5553,7357.535666,0,0,0,11611.15824
+2018,G12127,21028,Ember Resources Inc. - 09-14-030-27W4 Lonepine South,211110,Red Deer,Alberta,3915.544283,2.243775,6619.14471,0,0,0,10536.93277
+2018,G12123,29014,Ember Resources Inc. - 13-15-36-24-W4M Ghost Pine Comp Stn,211110,n/a,Alberta,3729.874578,2.2186,6757.270094,0,0,0,10489.36327
+2018,G12125,22307,Ember Resources Inc. - Elnora Gas Battery 15-32,211110,n/a,Alberta,3637.301958,2.163525,6589.559866,0,0,0,10229.02535
+2018,G12134,15375,Ember Resources Inc. - 12-11-041-24W4 Chigwell Gas Plant,211110,Mirror,Alberta,3725.334426,2.071925,6295.911858,0,0,0,10023.31821
+2018,G10361,19995,Air Products Canada Ltd. - Edmonton Hydrogen Facility,325120,Edmonton,Alberta,1117216.408,1083.4425,763.029,0,0,0,1119062.879
+2018,G10897,29468,Air Products Canada Ltd. - Scotford Hydrogen Facility,325120,Fort Saskatchewan,Alberta,1156738.73,552.21,598.5926,0,0,0,1157889.533
+2018,G12124,,Signalta Resources Ltd. - Solettera Acme Co-Generation,221112,Kneehill County,Alberta,761.246553,4.8834,5.821132,0,0,0,771.951085
+2018,G10611,23560,CST Canada Coal Limited - CST Coal,212114,MD of Greenview,Alberta,15126.3906,2892.7725,66.5434,0,0,0,18085.7065
+2018,G10406,22750,Connacher Oil and Gas Limited - Pod One,211141,Fort McMurray,Alberta,220451.0763,766.76,1145.5716,0,0,0,222363.4079
+2018,G10878,6851,Border Paving Ltd. - Red Deer Batch Plant,237310,RED DEER,Alberta,2974,1.641375,27.039924,0,0,0,3002.681299
+2018,G12140,,Titan Tire Reclamation Corp. - TVRP Fort McMurray,562210,FORT MCMURRAY,Alberta,3350.30009,4.4201,61.711628,0,0,0,3416.431818
+2018,G12103,30793,Cleo Energy Corp. - CLEO PROVOST 14-14-039-10W4,211110,N/A,Alberta,112.326193,8.2921,0.003874,0,0,0,120.622167
+2018,G12102,30794,Cleo Energy Corp. - CLEO PROVOST 13-23-40-8W4,211110,N/A,Alberta,370.403499,9.80665,1.924782,0,0,0,382.134931
+2018,G12101,21203,Cleo Energy Corp. - Signalta Sedgewick 16-04-042-12W4,211110,N/A,Alberta,1815.478002,108.141175,3.159992,0,0,0,1926.779169
+2018,G12100,24301,Cleo Energy Corp. - Provost Oil Battery 02-11,211110,N/A,Alberta,1715.824091,127.333875,0.004768,0,0,0,1843.162734
+2018,G12099,28394,Cleo Energy Corp. - Neutral Hills Oil Battery 04-15,211110,N/A,Alberta,1732.570939,128.5767,0.005066,0,0,0,1861.152705
+2018,G12098,17556,Cleo Energy Corp. - Provost Battery 15-2-37-7W4,211110,N/A,Alberta,2733.508954,202.8578,0.007748,0,0,0,2936.374502
+2018,G12118,19926,ATCO Electric Ltd. - Palisades Generating Station,221112,JASPER NATIONAL PARK,Alberta,47875.002,55.7,86.42,0,0,0,48017.122
+2018,G10529,1753,Keyera Corp - Minnehik Buck Lake Gas Plant,211110,BUCK LAKE,Alberta,55509.908,3559.575,432.1,0,0,0,59501.583
+2018,G10202,5337,Keyera Corp - Nevis Gas Plant,211110,STETTLER,Alberta,72947.499,8078.8,1137.466,0,0,0,82163.765
+2018,G10249,1372,Keyera Corp - Rimbey Gas Plant,211110,RIMBEY,Alberta,372395.0361,7301.695,2660.74664,0,0,0,382357.4777
+2018,G10807,698,Keyera Corp - Fort Saskatchewan Plant,211110,FORT SASKATCHEWAN,Alberta,114349.4309,464.525,600.768,0,0,0,115414.7239
+2018,G11362,19546,La Cie Matériaux de Construction BP Canada - BPCO Edmonton,324122,EDMONTON,Alberta,24687.122,16.45,204.428,0,0,0,24908
+2018,G11881,,Camrose County - WDMLR Landfill,562210,FERINTOSH,Alberta,6210,34246.25,169.86,0,0,0,40626.11
+2018,G11953,,Caltex Resources Ltd. -  Bodo 9-14,211110,MUNICIPAL DISTRICT OF PROVOST NO. 52,Alberta,8678.7943,1491.9075,65.5898,0,0,0,10236.2916
+2018,G11525,,City of Wetaskiwin - City of Wetaskiwin Landfill ,562210,WETASKIWIN,Alberta,131.23,9204.755,125.4282,0,0,0,9461.4132
+2018,G10119,2132,Sherritt International Corporation - Fort Saskatchewan,331410,FORT SASKATCHEWAN,Alberta,275422.209,4371.0975,1140.8334,0,0,0,280934.1399
+2018,G12248,29801,SemCams Midstream ULC - Wapiti 12-16 CS,211110,GRANDE CACHE,Alberta,8362.935,3195.475,64.9938,0,0,0,11623.4038
+2018,G10402,6895,Teck Coal Limited - Cardinal River Operations,212114,Hinton,Alberta,85345.3137,23684.8,1606.5478,100.89508,0,0,110737.5566
+2018,G10461,5390,EPCOR Water Services Inc. - Gold Bar Wastewater Treatment Plant,221320,EDMONTON,Alberta,10977,1071.6,16481.486,0,0,0,28530.086
+2018,G12165,,Spectra Energy Transmission - Transmission Mainline - AB,486210,CALGARY,Alberta,25095.8108,6698.335,190.0942,0,0,0,31984.24
+2018,G10262,6546,Shell Canada Energy Limited - Scotford Upgrader and Upgrader Cogeneration,211142,FORT SASKATCHEWAN,Alberta,2431924.632,6813.1,10622.0908,0,0,0,2449359.822
+2018,G11111,5020,McCain Foods Canada Ltd. - McCain Foods Coaldale FF plant,311410,COALDALE,Alberta,26843,16.25,134.1,0,0,0,26993.35
+2018,G11121,2517,Spray Lake Sawmills (1980) Ltd. - Spray Lake Sawmills (1980) Ltd.,321114,COCHRANE,Alberta,10365.67,6.325,128.14,0,0,0,10500.135
+2018,G11544,,Alberta  Health Services - Royal Alexandra Hospital,622111,EDMONTON,Alberta,23.1159,0.01115,303.912916,0,0,0,327.039966
+2018,G11022,23191,Seven Generations Energy Ltd. - Lator 01-21-063-02W6,211110,Calgary,Alberta,25328.02,11189.25,2652.2,0,0,0,39169.47
+2018,G11505,29486,Seven Generations Energy Ltd. - 7G Pad 6 - 08-06-064-04 W6M,211110,KAKWA,Alberta,47295.4,12795,6824.2,0,0,0,66914.6
+2018,G11458,28703,Seven Generations Energy Ltd. - PARA 16-21-63-4W6 GAS MULTIWELL GRP,211110,N/A,Alberta,26759.1,3425,2086,0,0,0,32270.1
+2018,G12000,30695,Seven Generations Energy Ltd. - 7G 14-18-064-05W6,211110,KAKWA,Alberta,15449.5,2565,1192,0,0,0,19206.5
+2018,G11619,29846,Seven Generations Energy Ltd. - 7Gen Pad 12-14 12-14-063-05W6,211110,KAKWA,Alberta,64932.1,8575,4678.6,0,0,0,78185.7
+2018,G11452,28748,Seven Generations Energy Ltd. - 7Gen Pad 2 - 01-02-064-05 W6M,211110,KAKWA,Alberta,31857.6,7325,3486.6,0,0,0,42669.2
+2018,G11454,28746,Seven Generations Energy Ltd. - 7Gen Pad 8 - 13-08-064-04 W6M,211110,KAKWA,Alberta,33224.7,7437.5,3546.2,0,0,0,44208.4
+2018,G11506,29488,Seven Generations Energy Ltd. - 7G 02-31-063-04W6,211110,KAKWA,Alberta,54238.1,11395,6347.4,0,0,0,71980.5
+2018,G12001,30692,Seven Generations Energy Ltd. - 7G 5-01-064-06W6,211110,KAKWA,Alberta,28270.9,4115,2413.8,0,0,0,34799.7
+2018,G11504,29485,Seven Generations Energy Ltd. - 7Gen Pad 23 - 16-23-063-05 W6M,211110,KAKWA,Alberta,28958.6,6612.5,3516.4,0,0,0,39087.5
+2018,G11507,29489,Seven Generations Energy Ltd. - 7G Pad 4-14 - 04-14-064-05W6,211110,KAKWA,Alberta,31268.9,7802.5,4380.6,0,0,0,43452
+2018,G11453,28749,Seven Generations Energy Ltd. - 7Gen Pad 4 - 07-04-064-05 W6M,211110,KAKWA,Alberta,36844,8465,4261.4,0,0,0,49570.4
+2018,G11455,28747,Seven Generations Energy Ltd. - 7Gen Pad 29 - 16-29-064-05 W6M,211110,KAKWA,Alberta,32956.5,6727.5,3576,0,0,0,43260
+2018,G11620,29820,Seven Generations Energy Ltd. - 7Gen 08-07 08-07-063-04W6,211110,KAKWA,Alberta,33875.2,6945,2920.4,0,0,0,43740.6
+2018,G12036,18782,Seven Generations Energy Ltd. - Paramount Kakwa 01-13-063-05W6,211110,N/A,Alberta,14451.4,3285,1549.6,0,0,0,19286
+2018,G11508,29487,Seven Generations Energy Ltd. - Cutbank 10-10-065-05 W6M,211110,CUTBANK,Alberta,47796,12262.5,6019.6,0,0,0,66078.1
+2018,G10832,21100,Seven Generations Energy Ltd. - Lator #2 01-21-063-02W6,211110,LATOR,Alberta,47179.26,7885,3796.52,0,0,0,58860.78
+2018,G10793,3959,Slave Lake Pulp - A Division of West Fraser Mills - SLAVE LAKE PULP - SLAVE LAKE,322111,Slave Lake,Alberta,45862.7,849.2627,2158.368704,0,0,0,48870.3314
+2018,G12175,,Alberta  Health Services - Glenrose Energy Centre,622111,EDMONTON,Alberta,25894.09,12.5,140.06,0,0,0,26046.65
+2018,G10750,27506,Imperial Oil Resources Limited - Kearl Oil Sands Processing Plant and Mine,211142,Fort McKay,Alberta,2729792.603,13695.84638,48605.38268,12.87315,0.22909,1.4592,2792108.394
+2018,G11335,6519,Olymel S.E.C. Red Deer - Olymel S.E.C. Red Deer,311611,Red Deer,Alberta,18898.875,6.25,66.454,0,0,0,18971.579
+2018,G10176,5243,Lehigh Hanson Materials Ltd. - Edmonton Plant,327310,EDMONTON,Alberta,557950.2943,76.905,736.358,0,0,0,558763.5573
+2018,G10068,6576,City of Medicine Hat - Electric Utility - Generation,221112,MEDICINE HAT,Alberta,434634.5114,6830.32,3224.67588,0,0,0,444689.5073
+2018,G10380,18142,TransCanada Energy Ltd. - Bear Creek Power Plant,221112,GRANDE PRAIRIE,Alberta,231993.268,2058.2775,1910.2694,0,0,0,235961.8149
+2018,G10179,19219,TransCanada Energy Ltd. - MacKay River Power Plant,221112,FORT MCMURRAY,Alberta,978251.0808,1824.5025,7111.025,0,0,0,987186.6083
+2018,G10246,6701,TransCanada Energy Ltd. - Redwater Cogeneration Plant,221112,REDWATER,Alberta,192356.8117,372.825,1316.4746,0,0,0,194046.1113
+2018,G10420,1106,Moly-Cop AltaSteel Ltd. - Moly-Cop AltaSteel Ltd.,331110,EDMONTON,Alberta,88592.196,30.75725,324.93026,0,0,0,88947.88351
+2018,G11647,,Canadian Natural Resources Limited - Swan Hills Compressor Station 03-18,211110,N/A,Alberta,22193.408,1587.075,89.996,0,0,0,23870.479
+2018,G11489,29415,Enerkem Alberta Biofuels - Enerkem Alberta Biofuels,325190,EDMONTON,Alberta,16679,7.015,78.4932,1661.745,0,0,18426.2532
+2018,G10040,15740,Calgary Energy Centre No. 2 Inc. - Calgary Energy Centre,221112,CALGARY,Alberta,677099.4241,1393.1625,4897.8684,0,0,0,683390.455
